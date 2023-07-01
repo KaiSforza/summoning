@@ -1,0 +1,103 @@
+Before the Transfer
+===================
+
+.. Massive colony on an ice-planet
+   barely self-sufficient
+   ~50% people there are simulacra, not humans, due to extreme weather
+   Rival colonies from another country near by
+   Large research contingent, very small military base, just defensive against rivals
+   
+
+   most buildings are massive concrete structures
+   underground light-refracting farms are okay but nowhere near enough for the whole human population
+   Metalic, concrete and plastics construction is definitely useful, but not crazy
+   3d printers and things for research purposes are very good at making small, detailed things
+   some construction 3d printers and large machinery for expansion, etc.
+
+   Expansion is needed, but almsot impossible on previous world
+   Most expansion happened vertically (tunnels, underground expansion)
+   Geothermal and nuclear power
+
+   Mostly transport and survey aircraft
+   Some cargo ships for getting equipment into/out of space
+   Nothing interstellar or warp-drive capable
+
+   Being a science base, it's not very keen on military stuff
+   Mostly benevolent people
+   Have prosisions for defense, but that's it for now
+
+The tunnels of Omuen 6 might be safe from the biting winds, but they were by no means a place humans wanted to be. Ten meters above an ice storm raged, and according to the weather stations it would be like this for another eight rotations. Underground the lighting was set to a Galactic day of exactly 24 hours, and Omuen 6 has a rotational period of about 36 hours, giving it quite a different appearance above ground.
+
+The cold didn't bother Casey, though he did understand the temperature around him. In order to do survey work above ground, about half of the entire base's 532,586 residents were Simulacra: human minds transferred to mechanical bodies. A popular choice given the line of work for frontier scientists, the hazardous locations either necessitated massive suits to combat the pre-terraforming weather or lack thereof. Still with human minds, they couldn't be copied without 'shutting down' the previous host, making them only really used in the frontier for legal reasons. Bipedal and mostly human looking, some chose to have a human face mask if they were regularly interfacing with non-Simus, but a lot of researchers kept the standard protective shell and sensor look.
+
+Casey had a custom face designed with custom flexible plastics to maintain a better approximation of a human face. It required maintenance but for the people he interacted with it was worth it. A couple hours a month of 3d printer time spent on the face seemed worth it. 
+
+"This storm is getting better, the last few months our terraforming stations have helped make at least the equator a bit more habitable lately." Walking beside Casey was his counterpart in the analysis team, Ellie Bates. Still human, Ellie only really worked on the theoretical side of things, sitting inside meant she didn't have to deal with the true cold of the outside.
+
+"Even down here it gets frigid." Ellie shivered in her massive parka. "Even the inoragnic joints you Simus have must be working better up there, though."
+
+"Yeah, but we still haven't really found anything special here, we're mostly busy just manning the terraforming stations and gathering samples from around the equator." Even just a few hundred km south, the temperature difference was about 10C, making it a bit less inhospitable.
+
+The underground tunnel came to an end and both scientists keyed into the colony's research facility. Eight underground stories, the top floor lobby was massive. The United Planets didn't spare much when it came to research and lab facilities, and the interior showed. The main, central building to the whole colony, it took up about a whole square kilometer of space above. Inside it was furnished with fake wood and metal fixtures to warm up the brutalist interior space. Through the glass scientists could be seen analyzing less hazardous samples and filling out reports. On this floor most were humans, and it contained less dangerous experiments and materials. Below were the more caustic and dangerous tasks, many performed by teams consisting solely of Simulacra.
+
+Surrounding the research facility were the living quarters, food, businesses, underground farms and manufacturing facilities. It was, though somewhat cold, a relatively comfortable place for a frontier base. Compared to earlier designs, the power and underground setups had been vastly improved, with better temperature controls and thermal engineering for the buildings, reducing failures as well as improving comfort. Expansion wasn't really a thought, except for the small growth in population that the colony experienced. Food, required for half of the residents, was largely shipped in, though the farms below had finally begun to offset the materials required.
+
+8 Days Later
+------------
+
+*Finally, this damn storm is subsiding.*
+
+The sheer ferocity of the surface storms meant the ships orbiting with supplies had to wait to send anything down to the surface. Concrete structures were okay, but anything not tethered--even heavy vehicles--were liable to be swept away. Air and space-craft had no way to deal with these storms and were simply grounded in the hangar facilities dotting the surface.
+
+*Supplies are coming at last. We are on our last week of food. Any longer and this storm could have brought our base to an end.*
+
+The ships above were filling with ice, valuable material for the interstellar ships used to traverse the galaxy, and they would return laden with copious amounts of fresh food, exotic materials and a couple personel this time. Specialists to help analyze some findings in real time.
+
+*"Tower to Ship Zero Three Niner, cleared for take off."*
+
+The air traffic was minimal, but having it properly controlled was extremely important for safety.
+
+*"Zero Three Niner lifting off. See you soon, Tower."*
+
+With all the supplies it might be another three earth months before they saw another interstellar resupply.
+
+*"Zero Three Niner to Tower. We're seeing something odd up here. The supply ships...They were right on our trajectory? Confirm."*
+
+*"Tower to Zero Three Niner, confirmed. Resupply should be...Hold that."*
+
+Listening to the transmission, Casey had a sudden feeling of dread. Had the Corporations decided this was the time to fully take this world? No, there's no way. We're on a block of ice 140 light years from civilized space. Until that distance was shortened, the corpos were just here to watch us and keep us on our toes.
+
+*"Tower, you're not going to believe this, but I see...oceans."*
+
+Casey stood up. No. The terraforming was barely 5% complete, they should be seeing any melted ice this early, especially not this far from a sun. Something's not right. Maybe the ships are having sensor problems? Did someone hack the ship's ocular feed? It had been done before to cover up corpos around their colony and terraforming facilities, but to show an ocean?
+
+*"They're real. Good gods, they're real oceans. And there's green. I haven't seen green land for a decade. John, look out the port side..."*
+
+Another voice chimed in, quieter, obviously further from the mic. The pilot had forgotten his radio discipline completely.
+
+*"Holy shit. Did we terraform it that fast? There's no way."*
+
+*"Confirmed. We have detected them too. The temperature here is still dangerously low, but at least 30 degrees above where it was even 20 minutes ago. That kind of shift shouldn't be possible."*
+
+Casey rushed to the north exit of the base, as the southern one had been locked in by ice during the storm. His temperatur sensors in the caves weren't telling him anything different, but as soon as he stepped outside he knew.
+
+*This...isn't Omuen 6.*
+
+------------
+
+As others walking near the exit looked out in passing, they noticed it too. The frigid wind coming in was significantly less deadly on their exposed faces. The Simulacra could read the temperatures accurately and they knew as well. People and machines slowly lumbered towards the door, not really understanding what was going on.
+
+Through the communcations link Casy was still listening in on the air to ground communications. 
+
+*"The magnetic compasses, they're not working as expected. We're not in the right place if the base is only at 10 degrees north. It's showing that we took off from almost 80 degrees."*
+
+*"Confirming. Spin characteristics seem different, as well as the stellar location. Constellations aren't the same as they usually are."*
+
+This is insanity. There's no way.
+
+"Tower, ready the supply craft to scout around. Dump the ice. Something isn't right here. I'm sending a survey team with each of them. I'll be on the next one up."
+
+This is going to be an interesting flight. Flight 039 was still reporting crazy stuff from their station of near orbit, but their photography reports will be limited, and they are obviously not getting any samples from up there.
+
+Flight 040: Over the Ocean
+--------------------------
