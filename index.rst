@@ -17,3 +17,7 @@
 .. image:: _static/images/maps/Map_of_the_civilized_area.webp
 
 `Map source <https://nihonkoku-shoukan.fandom.com/wiki/New_World#Gallery>`_
+
+`Book source <https://gitlab.com/kaictl/writing/summoning>`_
+
+Inspired by Japan Summons/Nihonkoku Shoukan by みのろう

@@ -33,6 +33,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'Ideas']
 html_theme = 'alabaster'
 html_static_path = ['_static']
 html_title = f'Summoning Frontier {release}'
+html_css_files = ['style/customs.css',]
 
 # -- Options for epub output
 suppress_warnings = [

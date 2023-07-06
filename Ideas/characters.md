@@ -8,6 +8,7 @@
 * Namys - elven head of Vauxnia
 
 * Savlik - Radio operator and head of communications in 3rd Subjugation Fleet
+* Egon - Head of Barbarian Diplomatic Relations for the Foreign Affairs Bureau
 
 ## Locations
 

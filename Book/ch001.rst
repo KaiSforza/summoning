@@ -1,10 +1,11 @@
 Chapter 1
 =========
-
 Before the Transfer
 ~~~~~~~~~~~~~~~~~~~
 
-Written 2023.06.02
+Written June 6th, 2023
+
+.. Written 2023.06.02
 
 ---
 

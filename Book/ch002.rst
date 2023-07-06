@@ -7,6 +7,8 @@ Written June 7th, 2023
 
 .. 2023.06.07
 
+---
+
 Central Calendar, Day 8 Month 12 1639, Vauxnia Islands
 ------------------------------------------------------
 
@@ -44,4 +46,66 @@ Vauxnia
 
 All the men had been gathered by the docks, the women and children by the main general store inland. Namys, the leader of Vauxnia, had been taken into the dock facilities, the largest and nicest building still standing.
 
-Half of the buildings and a third of the population had been destroyed. When a group of men decided to fight back, they were mercilessly slaughtered, their bodies ruthlessly tossed into one of the burning buildings at the edge of town. The small landing force they sent was over double the size of the entire village, and they walked around gawking at the buildings and people around them. With
+Half of the buildings and a third of the population had been destroyed. When a group of men decided to fight back, they were mercilessly slaughtered, their bodies ruthlessly tossed into one of the burning buildings at the edge of town. The small landing force they sent was over double the size of the entire village, and they walked around gawking at the buildings and people around them.
+
+The invader's equipment seemed even more advanced than that of Mu, with smaller rifles that shot bullets in a stream instead of one at a time. It was the large metal land dragons that really drove home how hopeless it was, though. One of the defenders had fired a the island's only cannon at it, and it shrugged it off like it was nothing. It may be a small cannon, but it still should have done something. Seeing that they had no chance, the villagers were despondent in their newfound captivity.
+
+---
+
+No one bothered to show Namys any kindness, and she was roughly shoved into the chair across from a tall, skinny human in a dark grey suit.
+
+"I, Egon, will begin this 'diplomatic meeting,'" he chuckled. "As we were fired upon, this island will be taken without conditions by The Empire."
+
+Egon, was sorting through papers as he spoke.
+
+"We were fired upon first! Your mechanical dragon destroyed one of our houses before we--"
+
+"Enough. I've had enough of dealing with you barbarian tribes for the past month, you're all the same. A couple of muskets, maybe even a real hunting rifle, a cannon or two. You are nothing compared to the might of The Empire." He finally found the paper he was looking for, it seemed, and reached into his jacket's breast pocket for a pen to write something on it. "You *will* sign this. Either that or we kill you and find someone who will."
+
+Namys' eyes widened when she saw what was on the paper.
+
+.. role:: underline
+   :class: underline
+
+.. I should have just used markdown...wtf how does rst not have underlines.
+
+.. epigraph::
+   * The islands of :underline:`Vauxnia` will fully submit to the rule of Gra Valkas Empire.
+   * All current leadership will be disbanded, to be replaced by a member of the Gra Valkan Foreign Affairs Bureau.
+   * All residents will forfeit their welfare and rights and be conscripted into the Gra Valkan military.
+   * Any residents that resist, spread propaganda unfavorable to The Empire or otherwise displease the leadership shall be tried and punished post haste.
+   * Freedom of speech and movement will be forfeit.
+   * Gra Valkan citizens shall be under Gra Valkas rule, and :underline:`Vauxnia` shall not interfere.
+
+   I, ______________, hereby relinquish my duties as the ruler of :underline:`Vauxnia` and hand full and irrevocable control to the Gra Valkan Empire.
+
+   Signed on the :underline:`8th` day of the :underline:`12th` month of :underline:`1639`\: ______________
+
+"So...you want to enslave us?"
+
+A dark fire lit up behind Egon's eyes. "Well, yes." The smile spreading across his face mad the hair on the back of Namys' neck stand up.
+
+There was no choice. Mu and the distance to the main continents had kept them out of reach or want from most of the civilized powers, and yet here they were, forcefully invaded by an empire they had never heard of, with technology that rivaled the great powers.
+
+Egon tapped his fingers on the table, "I'll give you until the count of ten, or we'll get someone else in here." He looked behind her and she heard the rattle of metal as one of the soldiers behind her stood up straighter. She took the pen and signed. "Good, good. Now, take her away. We need to get these savages ready to work."
+
+Rough hands grabbed her by the arms as they escorted her out of her own office. Feeling the sheer weight of what had just happened, she had trouble walking to the general store. The bodies by the beach had been cleared out already, but as she walked across the village she passed no less than a dozen bodies. Some men, some women and some even children, their corpses left unceremoniously in the streets. A man that had been hiding in one of the houses was dragged into the street in front of her.
+
+"Please! No! Don't hurt my family!" He shouted as they tossed him to the stones that made up the road. Namys heard a bone crack as the butt of a rifle came down on the man's arm.
+
+"What do you think we are? Barbarians like you? No, we won't hurt them." The soldiers nearby laughed. From inside the house Namys could hear a cacophony of screaming and laughter. The first soldier raised his rifle, holding the end of the barrel to the man's chest. "We just got word that you lot don't have rights anymore, so we're allowed to do this. We're not even hurting any people!"
+
+The crack was unexpected, and Namys stopped as her entire body tensed up. The man fell limp to the ground. Screaming still came from the house, unaffected by the violence outside.
+
+"What are you looking at? You're supposed to be getting down to what you savages call a store."
+
+---
+
+When she arrived, she couldn't even make eye contact with anyone there. There were less women there than when they were first captured. She dare not think what happened to them.
+
+The Skies Above Vauxnia
+-----------------------
+
+"You all saw that, right? Holy shit, whatever is happening out there is worse than I've seen in some jungle planets. They look human, some of their equipment even looks like some of the stuff we see in ancient history books, but they act like animals."
+
+Casey couldn't believe his optical sensors. He actually reset them twice during the invasion, hoping that he wasn't seeing what was actually going on. The enemy had been using a primitive version of radar, but it would have a hard time detecting even the supply ships angular surfaces.
