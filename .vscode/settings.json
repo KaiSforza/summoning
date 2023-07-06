@@ -2,13 +2,21 @@
   "cSpell.words": [
     "corpos",
     "elven",
+    "maxdepth",
     "Mirishial",
     "Namys",
     "Omuen",
     "Simus",
     "terraforming",
+    "toctree",
     "Valkas",
     "Vauxnia",
     "Vauxnians"
-  ]
+  ],
+  "esbonio.sphinx.buildDir" : "${workspaceFolder}/_build/html",
+  "esbonio.sphinx.confDir"  : "${workspaceFolder}",
+  "esbonio.sphinx.srcDir"   : "${workspaceFolder}",
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 80,
+  "editor.wrappingStrategy": "simple"
 }

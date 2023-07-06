@@ -4,23 +4,53 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Build singlehtml",
-      "type": "shell",
-      "command": "${workspaceFolder}/make.bat singlehtml",
-      "problemMatcher": [],
-      "group": {
-        "kind": "build",
-        "isDefault": false
-      }
-    },
-    {
       "label": "Build html",
-      "type": "shell",
-      "command": "${workspaceFolder}/make.bat html",
-      "problemMatcher": [],
+      "type": "process",
+      "command": "sphinx-build",
+      "args": [
+        "-avTE",
+        "-b", "html", // builder
+        "${workspaceFolder}", // source
+        "${workspaceFolder}/_build/html", // dest
+      ],
+      "presentation": {
+        "showReuseMessage": false,
+      },
       "group": {
         "kind": "build",
         "isDefault": true
+      }
+    },
+    {
+      "label": "Build ebook",
+      "type": "process",
+      "command": "sphinx-build",
+      "args": [
+        "-avTE",
+        "-b", "epub", // builder
+        "${workspaceFolder}", // source
+        "${workspaceFolder}/_build/epub", // dest
+      ],
+      "presentation": {
+        "showReuseMessage": false,
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "Clean",
+      "type": "process",
+      "command": "sphinx-build",
+      "args": ["-M", "clean"],
+      "problemMatcher": [],
+      "presentation": {
+        "showReuseMessage": false,
+      },
+      "group": {
+        "kind": "none",
+        "isDefault": false
       }
     }
   ]

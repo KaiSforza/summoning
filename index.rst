@@ -8,7 +8,8 @@
 ====================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Contents:
 
    Book/ch001
+   Book/ch002

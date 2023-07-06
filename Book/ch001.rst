@@ -1,5 +1,12 @@
-Chapter 1: Before the Transfer
-==============================
+Chapter 1
+=========
+
+Before the Transfer
+~~~~~~~~~~~~~~~~~~~
+
+Written 2023.06.02
+
+---
 
 .. Massive colony on an ice-planet
    barely self-sufficient

@@ -9,8 +9,22 @@
       "type": "PowerShell",
       "request": "launch",
       "script": "${workspaceFolder}/make.bat",
-      "cwd": "${cwd}"
+      "cwd": "${cwd}",
+      "args": ["html"]
     }
-
+    // {
+    //   "name": "Build html",
+    //   "request": "launch",
+    //   "type": "PowerShell",
+    //   "cwd": "${workspaceFolder}",
+    //   "script": "sphinx-build",
+    //   "args": [
+    //     "-avTE",
+    //     "-b",
+    //     "html",
+    //     "${workspaceFolder}",
+    //     "${workspaceFolder}/_build/html",
+    //   ],
+    // },
   ]
 }
