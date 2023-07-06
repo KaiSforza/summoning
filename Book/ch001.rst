@@ -1,20 +1,19 @@
-Before the Transfer
-===================
+Chapter 1: Before the Transfer
+==============================
 
 .. Massive colony on an ice-planet
    barely self-sufficient
    ~50% people there are simulacra, not humans, due to extreme weather
    Rival colonies from another country near by
    Large research contingent, very small military base, just defensive against rivals
-   
 
    most buildings are massive concrete structures
    underground light-refracting farms are okay but nowhere near enough for the whole human population
-   Metalic, concrete and plastics construction is definitely useful, but not crazy
+   Metallic, concrete and plastics construction is definitely useful, but not crazy
    3d printers and things for research purposes are very good at making small, detailed things
    some construction 3d printers and large machinery for expansion, etc.
 
-   Expansion is needed, but almsot impossible on previous world
+   Expansion is needed, but almost impossible on previous world
    Most expansion happened vertically (tunnels, underground expansion)
    Geothermal and nuclear power
 
@@ -24,17 +23,17 @@ Before the Transfer
 
    Being a science base, it's not very keen on military stuff
    Mostly benevolent people
-   Have prosisions for defense, but that's it for now
+   Have provisions for defense, but that's it for now
 
 The tunnels of Omuen 6 might be safe from the biting winds, but they were by no means a place humans wanted to be. Ten meters above an ice storm raged, and according to the weather stations it would be like this for another eight rotations. Underground the lighting was set to a Galactic day of exactly 24 hours, and Omuen 6 has a rotational period of about 36 hours, giving it quite a different appearance above ground.
 
 The cold didn't bother Casey, though he did understand the temperature around him. In order to do survey work above ground, about half of the entire base's 532,586 residents were Simulacra: human minds transferred to mechanical bodies. A popular choice given the line of work for frontier scientists, the hazardous locations either necessitated massive suits to combat the pre-terraforming weather or lack thereof. Still with human minds, they couldn't be copied without 'shutting down' the previous host, making them only really used in the frontier for legal reasons. Bipedal and mostly human looking, some chose to have a human face mask if they were regularly interfacing with non-Simus, but a lot of researchers kept the standard protective shell and sensor look.
 
-Casey had a custom face designed with custom flexible plastics to maintain a better approximation of a human face. It required maintenance but for the people he interacted with it was worth it. A couple hours a month of 3d printer time spent on the face seemed worth it. 
+Casey had a custom face designed with custom flexible plastics to maintain a better approximation of a human face. It required maintenance but for the people he interacted with it was worth it. A couple hours a month of 3d printer time spent on the face seemed worth it.
 
 "This storm is getting better, the last few months our terraforming stations have helped make at least the equator a bit more habitable lately." Walking beside Casey was his counterpart in the analysis team, Ellie Bates. Still human, Ellie only really worked on the theoretical side of things, sitting inside meant she didn't have to deal with the true cold of the outside.
 
-"Even down here it gets frigid." Ellie shivered in her massive parka. "Even the inoragnic joints you Simus have must be working better up there, though."
+"Even down here it gets frigid." Ellie shivered in her massive parka. "Even the inorganic joints you Simus have must be working better up there, though."
 
 "Yeah, but we still haven't really found anything special here, we're mostly busy just manning the terraforming stations and gathering samples from around the equator." Even just a few hundred km south, the temperature difference was about 10C, making it a bit less inhospitable.
 
@@ -51,19 +50,19 @@ The sheer ferocity of the surface storms meant the ships orbiting with supplies 
 
 *Supplies are coming at last. We are on our last week of food. Any longer and this storm could have brought our base to an end.*
 
-The ships above were filling with ice, valuable material for the interstellar ships used to traverse the galaxy, and they would return laden with copious amounts of fresh food, exotic materials and a couple personel this time. Specialists to help analyze some findings in real time.
+The ships above were filling with ice, valuable material for the interstellar ships used to traverse the galaxy, and they would return laden with copious amounts of fresh food, exotic materials and a couple personnel this time. Specialists to help analyze some findings in real time.
 
-*"Tower to Ship Zero Three Niner, cleared for take off."*
+*"Tower to Ship Zero Three Nine, cleared for take off."*
 
 The air traffic was minimal, but having it properly controlled was extremely important for safety.
 
-*"Zero Three Niner lifting off. See you soon, Tower."*
+*"Zero Three Nine lifting off. See you soon, Tower."*
 
 With all the supplies it might be another three earth months before they saw another interstellar resupply.
 
-*"Zero Three Niner to Tower. We're seeing something odd up here. The supply ships...They were right on our trajectory? Confirm."*
+*"Zero Three Nine to Tower. We're seeing something odd up here. The supply ships...They were right on our trajectory? Confirm."*
 
-*"Tower to Zero Three Niner, confirmed. Resupply should be...Hold that."*
+*"Tower to Zero Three Nine, confirmed. Resupply should be...Hold that."*
 
 Listening to the transmission, Casey had a sudden feeling of dread. Had the Corporations decided this was the time to fully take this world? No, there's no way. We're on a block of ice 140 light years from civilized space. Until that distance was shortened, the corpos were just here to watch us and keep us on our toes.
 
@@ -79,7 +78,7 @@ Another voice chimed in, quieter, obviously further from the mic. The pilot had 
 
 *"Confirmed. We have detected them too. The temperature here is still dangerously low, but at least 30 degrees above where it was even 20 minutes ago. That kind of shift shouldn't be possible."*
 
-Casey rushed to the north exit of the base, as the southern one had been locked in by ice during the storm. His temperatur sensors in the caves weren't telling him anything different, but as soon as he stepped outside he knew.
+Casey rushed to the north exit of the base, as the southern one had been locked in by ice during the storm. His temperature sensors in the caves weren't telling him anything different, but as soon as he stepped outside he knew.
 
 *This...isn't Omuen 6.*
 
@@ -87,13 +86,13 @@ Casey rushed to the north exit of the base, as the southern one had been locked 
 
 As others walking near the exit looked out in passing, they noticed it too. The frigid wind coming in was significantly less deadly on their exposed faces. The Simulacra could read the temperatures accurately and they knew as well. People and machines slowly lumbered towards the door, not really understanding what was going on.
 
-Through the communcations link Casy was still listening in on the air to ground communications. 
+Through the communications link Casey was still listening in on the air to ground communications.
 
 *"The magnetic compasses, they're not working as expected. We're not in the right place if the base is only at 10 degrees north. It's showing that we took off from almost 80 degrees."*
 
 *"Confirming. Spin characteristics seem different, as well as the stellar location. Constellations aren't the same as they usually are."*
 
-This is insanity. There's no way.
+*This is unreal. There's no way.*
 
 "Tower, ready the supply craft to scout around. Dump the ice. Something isn't right here. I'm sending a survey team with each of them. I'll be on the next one up."
 
@@ -101,3 +100,24 @@ This is going to be an interesting flight. Flight 039 was still reporting crazy 
 
 Flight 040: Over the Ocean
 --------------------------
+
+With a crew full of Simulacra, the large cargo doors were left open to gather visual data. Even without actual eyes, none of the passengers could believe what they were seeing. A massive ocean was spread out below them. Sensor packages were being dropped at regular intervals into the water, repurposed from the ice probes they would use prior.
+
+At least to the magnetic south, there seemed to be no ice, but over the base and up north there still existed massive sheets of ice. Swaths of greenery lined the nearby landmasses. Not just brown dirt from the melted ice but actual grass and trees and plants.
+
+One of the ships had gone into low orbit and was astonished that the planet looked nothing like the expected tectonic layout of Omuen 6, and also confirmed that there were no traces of interstellar travel or unnatural satellites around.
+
+*Wherever we are, it's no longer the Omuen system at all. But how?*
+
+"Sir, we have radio signals from below, but they don't match anything the corpos would be using."
+
+Central Calendar, Day 8 Month 12 1639, Vauxnia Islands
+------------------------------------------------------
+
+An almost uninhabited archipelago north of the Mu continent, nearby the third civilization zone. There exists only a single minor village on the islands, the discovery of oil deposits had helped them advance slowly but surely and also remain independent. The rugged, dangerous terrain and harsh winter weather made the island a hidden gem of the north.
+
+With a population of only 230 it was a quiet existence for the inhabitants. Small ships moved oil out to Mu. With such a small output and being in the uncivilized zone it wasn't really the most popular destination for anyone, nor was it the target of any expansion plans by their neighboring countries.
+
+Inside the small port town of Vauxnia on the main central island was the small oil ship that the islanders had purchased from Mu. Mostly wood in its construction, it contained metal cisterns specially made for this purpose, much smaller versions of the massive tanks they sent to move oil around from the sea deposits around Mu's coast. Having visited Mu, almost everyone knew their technology and was in awe of it. Small bits and pieces made it to the island on the boat on the return trip, helping the small number of residents to live a relatively comfortable life.
+
+Suddenly it sounded like the air was tearing and screaming. At first the residents thought it was a test of a Mu aircraft, possibly even one from the Holy Mirishial Empire. They had been known to fly over the island for travel between continents, but something was different.
