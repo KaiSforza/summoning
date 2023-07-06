@@ -2,10 +2,13 @@
   "cSpell.words": [
     "corpos",
     "elven",
+    "Hannaz",
     "maxdepth",
     "Mirishial",
     "Namys",
     "Omuen",
+    "Savlik",
+    "Savlik's",
     "Simus",
     "terraforming",
     "toctree",
@@ -18,5 +21,6 @@
   "esbonio.sphinx.srcDir"   : "${workspaceFolder}",
   "editor.wordWrap": "bounded",
   "editor.wordWrapColumn": 80,
-  "editor.wrappingStrategy": "simple"
+  "editor.wrappingStrategy": "simple",
+  "restructuredtext.syntaxHighlighting.disabled": true
 }

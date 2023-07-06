@@ -5,12 +5,19 @@
 * Casey - simulacrum from previous world
 * Ellie - human researcher from previous world
 
-* Namys - elven inhabitant of Galahad, head of the shipping dock
+* Namys - elven head of Vauxnia
+
+* Savlik - Radio operator and head of communications in 3rd Subjugation Fleet
 
 ## Locations
 
 * Omuen 6 - home planet for research base
 * Vauxnia Islands - Small archipelago north of Mu, ~3000km north, right near arctic circle, but not in it.
+
+## Things
+
+### Ships
+* Capelin - flagship of the 3rd Subjugation Fleet
 
 ## Groups
 
