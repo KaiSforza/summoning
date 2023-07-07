@@ -15,6 +15,7 @@
    Book/ch002
 
 .. image:: _static/images/maps/Map_of_the_civilized_area.webp
+  :width: 1320
 
 `Map source <https://nihonkoku-shoukan.fandom.com/wiki/New_World#Gallery>`_
 

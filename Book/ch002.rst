@@ -3,9 +3,9 @@ Chapter 2
 Invasion
 ~~~~~~~~
 
-Written June 7th, 2023
+Written July 6th, 2023
 
-.. 2023.06.07
+.. 2023.07.06
 
 ---
 
@@ -108,4 +108,26 @@ The Skies Above Vauxnia
 
 "You all saw that, right? Holy shit, whatever is happening out there is worse than I've seen in some jungle planets. They look human, some of their equipment even looks like some of the stuff we see in ancient history books, but they act like animals."
 
-Casey couldn't believe his optical sensors. He actually reset them twice during the invasion, hoping that he wasn't seeing what was actually going on. The enemy had been using a primitive version of radar, but it would have a hard time detecting even the supply ships angular surfaces.
+Casey couldn't believe his optical sensors. He actually reset them twice during the invasion, hoping that he wasn't seeing what was actually going on. The enemy had been using a primitive version of radar, but it would have a hard time detecting even the supply ships angular surfaces, not to mention the range.Their planes didn't appear to have any radar themselves, and they were only getting radio waves from the large ships to the magnetic west. Everything pointed to some kind of conquest, just like a Corpo.
+
+Half the measured population of the island either lay on the streets or was burning in the destroyed buildings right now. The research team didn't really have any intention of getting involved, but after seeing this they were all disgusted. Some of the Simulacra had gone through horrors before entering their robotic bodies, and what unfolded below brought back heavy memories.
+
+Clem, the ship's pilot, looked at the other three while they hovered and scanned the terrain below. "We have to do something, don't we? I've seen war crimes back when I was a military pilot, and that's textbook."
+
+"But we have no way to legally do anything. If we interfere, we're just picking sides and we'd be interfering with what seems to be a sentient race."
+
+"Yeah, but they honestly look human. If they're human, do we have to follow the same protocols? Then they're probably just some really early colonist group that's been here for a couple decades, maybe even a century, judging by their tech. If that's the case then the standard non-interference protocol no longer applies."
+
+It was a tough decision. Planetary interference was a huge taboo for the Frontier Research Union, and everyone knew it.
+
+"What if we make contact with them. Casey, you've got a face, so you should head down there and try to talk to them." Casey instantly regretted his polyplast face. "If anything happens, we can swoop in and pick you up right away. Their planes are slow, nothing that we've seen should be able to catch us, unless they've to a trump card stowed away somewhere."
+
+"And what if they do?"
+
+"We'll give the defense team a call and have them head over here just in case."
+
+Colonies were all relatively far from other civilized groups, so most didn't have a military arm or anything of the sort, but if a Corpo came to the same planet the frontier base would be able to request a small contingent for self defense. For them it was a comfortable life, but with no space-based assets, they all seemed to get a bit bored, and many of them eventually started doing other work: helping with samples, maintenance, and some even starting businesses in the base. The weaponry at their disposal was minimal, but enough to properly defend from almost any land- or air-based threat.
+
+"And what if they have space-based assets?"
+
+"If they did, we wouldn't be here right now. Here, let me check your jump kit and we'll get you some of the ship's emergency supplies."

@@ -34,5 +34,4 @@
 1. Research Priority - anything but research takes a back seat
 2. Non-Interference - Native species should not be interfered with.
 3. Defense - The base borders are the base borders. Defend them at all costs.
-4. Protection - sufficiently advanced civilizations should be protected.
-5. Aid - Render aid to fellow research groups.
+4. Aid - Render aid to fellow research groups.
