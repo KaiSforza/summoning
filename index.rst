@@ -13,6 +13,7 @@
 
    Book/ch001
    Book/ch002
+   Book/ch003
 
 .. image:: _static/images/maps/Map_of_the_civilized_area.webp
   :width: 1320

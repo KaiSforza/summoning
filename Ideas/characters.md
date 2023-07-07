@@ -2,10 +2,12 @@
 
 ## Characters
 
-* Casey - simulacrum from previous world
+* Casey Simpson - simulacrum from previous world
+* Clem - ship pilot
 * Ellie - human researcher from previous world
 
-* Namys - elven head of Vauxnia
+* Namys Fenric - elven head of Vauxnia
+* Wyn - Owner of general store
 
 * Savlik - Radio operator and head of communications in 3rd Subjugation Fleet
 * Egon - Head of Barbarian Diplomatic Relations for the Foreign Affairs Bureau
