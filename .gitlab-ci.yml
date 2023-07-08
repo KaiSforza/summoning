@@ -1,15 +1,64 @@
 stages:
   - deploy
+  - release
 
 pages:
   stage: deploy
   image: python:3.9-slim
-  before_script:
-    - python -m pip install sphinx
   script:
+    - python -m pip install sphinx
     - sphinx-build -avTEW -b html . ./public
   artifacts:
     paths:
     - public
   rules:
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+
+ebook:
+  stage: deploy
+  image: python:3.9-slim
+  script:
+    - |
+      [[ $CI_COMMIT_TAG == $(python -c 'from conf import version; print(version)') ]]
+    - python -m pip install sphinx
+    - sphinx-build -avTEW -b epub . ./public
+    - mv ./public/SummoningFrontier.epub ./SummoningFrontier-${CI_COMMIT_TAG}.epub
+  artifacts:
+    paths:
+      - ./SummoningFrontier-${CI_COMMIT_TAG}.epub
+  rules:
+    - if: $CI_COMMIT_TAG
+
+package:
+  stage: deploy
+  image: alpine:latest
+  needs:
+    - job: ebook
+      artifacts: true
+  script:
+    - apk add --no-cache curl
+    - ls -lah
+    - |
+      curl \
+        --header "JOB-TOKEN: $CI_JOB_TOKEN" \
+        --upload-file ./SummoningFrontier-${CI_COMMIT_TAG}.epub \
+        "${CI_API_V4_URL}/projects/${CI_PROJECT_ID}/packages/generic/Summoning/${CI_COMMIT_TAG}/SummoningFrontier-${CI_COMMIT_TAG}.epub"
+  rules:
+    - if: $CI_COMMIT_TAG
+
+release_job:
+  stage: release
+  image: registry.gitlab.com/gitlab-org/release-cli:latest
+  rules:
+    - if: $CI_COMMIT_TAG # Run this job when a tag is created manually
+  script:
+    - echo "Running the release job."
+  release:
+    tag_name: $CI_COMMIT_TAG
+    name: 'Version $CI_COMMIT_TAG'
+    description: 'New ebook release'
+    assets:
+      links:
+        - name: 'Summoning Frontier $CI_COMMIT_TAG.epub'
+          url: "${CI_API_V4_URL}/projects/${CI_PROJECT_ID}/packages/generic/Summoning/${CI_COMMIT_TAG}/SummoningFrontier-${CI_COMMIT_TAG}.epub"
+
