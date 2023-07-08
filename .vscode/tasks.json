@@ -36,18 +36,18 @@
       },
       "group": {
         "kind": "build",
-        "isDefault": true
+        "isDefault": false
       }
     },
     {
       "label": "Clean",
       "type": "process",
       "command": "sphinx-build",
-      "args": ["-M", "clean"],
+      "args": ["-M", "clean",
+        "${workspaceFolder}", // source
+        "${workspaceFolder}/_build", // dest
+      ],
       "problemMatcher": [],
-      "presentation": {
-        "showReuseMessage": false,
-      },
       "group": {
         "kind": "none",
         "isDefault": false
