@@ -5,6 +5,8 @@
 * Casey Simpson - simulacrum from previous world
 * Clem - ship pilot
 * Ellie - human researcher from previous world
+* Ava Matthews - Defense Force Commander
+* Jaime Bates -
 
 * Namys Fenric - elven head of Vauxnia
 * Wyn - Owner of general store
@@ -21,6 +23,13 @@
 
 ### Ships
 * Capelin - flagship of the 3rd Subjugation Fleet
+
+### Air
+
+* F-239 Cyclone - All-purpose superiority fighter
+* C-179 Planetmaster IV - Heavy Transport
+* M6 Gargoyle - IFV
+* M3 Tone - Tank
 
 ## Groups
 
