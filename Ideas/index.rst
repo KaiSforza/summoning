@@ -6,9 +6,10 @@ Information about the world
    :caption: Contents:
 
    characters
-   sources
    Countries
    militaries
+
+   sources
 
 After playing a bunch of Titanfall, I really liked the aesthetic. In terms of cool visual stuff, it really left an impression. I didn't want to bring the Titan part of it in, as that kind of...overpowers everything, but the movement, weapons, and machines are immensely cool and I think some cool stories could be told about them.
 
