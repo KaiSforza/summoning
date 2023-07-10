@@ -16,6 +16,7 @@
 
 ## Locations
 
+* United Systems - original
 * Omuen 6 - home planet for research base
 * Vauxnia Islands - Small archipelago north of Mu, ~3000km north, right near arctic circle, but not in it.
 
