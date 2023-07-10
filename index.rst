@@ -10,10 +10,11 @@
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :glob:
 
-   Book/ch001
-   Book/ch002
-   Book/ch003
+   Book/*
+
+   Ideas/index
 
 .. image:: _static/images/maps/Map_of_the_civilized_area_1200.png
   :width: 1200
