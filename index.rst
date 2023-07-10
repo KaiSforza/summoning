@@ -19,6 +19,10 @@
 .. image:: _static/images/maps/Map_of_the_civilized_area_1200.png
   :width: 1200
 
+.. note::
+  This map will be updated with something more resembling the world I'm thinking
+  of, not the 'default' Summoning Japan world.
+
 `Map source <https://nihonkoku-shoukan.fandom.com/wiki/New_World#Gallery>`_
 
 `Book source <https://gitlab.com/kaictl/writing/summoning>`_
