@@ -67,7 +67,7 @@ The base probably has ~50 Apollo-like craft. The single airframe lowers maintena
 
   * Transport focused. Can fit a whole CV-8 in the bay
   * With the CV-8 it can hold 16 more troops in the sides
-  * Without the CV-8 32 troops can fit
+  * Without the CV-8, 50 troops can fit
   * Bridge and crew room has medical supplies and a single triage bed
   * Upper turret same 36mm turret as the CV-8
     (has a folding cover for stealth)

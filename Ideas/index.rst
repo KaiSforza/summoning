@@ -1,5 +1,8 @@
-Information about the world
+Information About the World
 ===========================
+
+.. warning::
+  This is a section for my own ramblings. Read past here at your own risk. Grammar, spelling and sanity are completely optional from here on.
 
 .. toctree::
    :maxdepth: 2
