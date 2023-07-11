@@ -40,3 +40,7 @@ https://titanfall.fandom.com/wiki/Simulacrum?file=Hands_of_the_Machine_Hi.jpg
   :width: 49%
 
 https://starcitizen.tools/Apollo_Medivac
+
+.. image:: ../_static/images/examples/Rampage_rifle_cosmetic.png
+
+https://apexlegends.fandom.com/wiki/Rampage_LMG

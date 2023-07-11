@@ -43,19 +43,19 @@ The engines can rotate and shift for vertical lift, enabling just two engines to
 
 The base probably has ~50 Apollo-like craft. The single airframe lowers maintenance and parts printing costs significantly.
 
-* 30 cargo
+* 30 cargo - S-23
 
   * Similar interior but with all stuff behind components room replaced with cargo space
   * Used for bringing supplies between outposts and from space to ground
   * Orange color scheme
 
-* 10 exploration
+* 10 exploration - SX-23
 
   * One patient room replaced with sensor suites
   * detailed scanning arrays
   * Blue color scheme
 
-* 5 medevac
+* 5 medevac - SM-23
 
   * 6 medical beds each
   * significant medical supplies
@@ -63,14 +63,16 @@ The base probably has ~50 Apollo-like craft. The single airframe lowers maintena
   * short range plasma cutter beam weapon for rescue operations
   * Medical beds can be rotated and angled for space flight thrust
 
-* 10 military light-attack
+* 10 military light-attack - AS-23
 
   * Transport focused. Can fit a whole CV-8 in the bay
   * With the CV-8 it can hold 16 more troops in the sides
   * Without the CV-8 32 troops can fit
   * Bridge and crew room has medical supplies and a single triage bed
-  * Upper and lower turret same 36mm turret as the CV-8
+  * Upper turret same 36mm turret as the CV-8
     (has a folding cover for stealth)
+  * Also has deployable lower turret with combined 103mm and 25mm cannon for
+    ground support (normally stowed for flight)
   * Air-to-surface missiles in internal bays
   * Air-to-air and space-to-space missiles on engine nacelle internal bays
 
@@ -86,6 +88,8 @@ Guns
 Again, these are mostly based around things from TF and Apex, with a more limited load available. I'm a huge fan of bullpup firearms, and with size/weight being a relatively important concern for a space-faring group, they should all be as small as possible while also meeting the requirements.
 
 The standard rifle is used in different variants for multiple tasks. Parts similarities mean that having a bunch of custom weapons floating around is not really viable from a longevity standpoint. Something along the lines of the Rampage_ crossed with the R-301_ is what I'm thinking, a bullpup design with a compact area around the barrel. The barrel and upper could be replaced to suit different roles, with the same lower as they would all use the same ammunition, similar to an AR-15. This would give it modularity and standardization. Optical sights are standard on all of them, with added full-integration digital sights for Simulacra.
+
+.. image:: ../_static/images/examples/Rampage_rifle_cosmetic.png
 
 Heavy weapons include a short range cutting beam that's mostly used for search and rescue. Mostly it's guided munitions from a rocket launcher.
 

@@ -33,10 +33,17 @@ Ships
 Air
 ~~~
 
-* F-239 Cyclone - All-purpose superiority fighter
-* C-179 Planetmaster IV - Heavy Transport
-* M6 Gargoyle - IFV
-* M3 Tone - Tank
+* S-23 - Base space/air ship for colonies, used for cargo
+* SX-23 - Specialist S-23 for exploration. Includes sensors, small med, etc.
+* SM-23 - Solely medical evac specialist
+* AS-23 - Attack/Space variant. Has transport, on-station strike and missiles
+
+Land
+~~~~
+
+* CV-8 - 36mm IFV
+* CV-8T - 103mm Heavy IFV/light tank
+* CV-8L - 25mm Light IFV
 
 Groups
 ------
