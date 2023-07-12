@@ -3,7 +3,7 @@ stages:
   - deploy
   - release
 
-pages:
+test:
   stage: test
   image: python:alpine
   script:
