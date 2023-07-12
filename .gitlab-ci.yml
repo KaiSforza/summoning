@@ -9,6 +9,10 @@ test:
   script:
     - python -m pip install sphinx
     - sphinx-build -avTEW -b html . ./public
+  # We're not saving this but it's here to look at just in case.
+  artifacts:
+    paths:
+    - public
   rules:
     - if: $CI_MERGE_REQUEST_ID
 
