@@ -39,3 +39,4 @@ html_css_files = ['style/customs.css',]
 suppress_warnings = [
     'epub.unknown_project_files'
 ]
+epub_cover = ('_static/cover.png', '')
