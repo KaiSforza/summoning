@@ -1,7 +1,7 @@
 Chapter 5
 =========
-Sinking
-~~~~~~~
+A Sinking Feeling
+~~~~~~~~~~~~~~~~~
 
 Written June 12th, 2023
 
@@ -42,9 +42,10 @@ Outside the 103mm shells from their AS-23 could be heard slamming into the metal
 
 At first they retreated, but once they saw the knives Jaime's men were wielding were to cut their bindings, they almost started clambering over one another to thank the squad.
 
----
+The Skies West of Vauxnia
+-------------------------
 
-The Gra Valkan planes were state of the art. The inverted V-12 engine produced enough power to reach almost 650 km/h, and the new maneuverability upgrades they had finally figured out after the transfer to the new world made it unbeatable in a dogfight. The extra fuel tanks they carried for reconnaissance made them slower and less agile, but nothing in this world could come close even with the handicap. And these were just the ones light and small enough to be used on an aircraft carrier.
+The Gra Valkan planes were state of the art. The inverted V-12 engine was supercharged and allowed them to go extremely high while maintaining power, and the new maneuverability upgrades they had finally implemented after the transfer to the new world made it unbeatable in a dogfight. The extra fuel tanks they carried for reconnaissance made them slower and less agile, but nothing in this world could come close even with the handicap. And these were just the ones light and small enough to be used on an aircraft carrier.
 
 None of their radios were working so they were all just flying a predetermined route, but each of them carried droppable colored flags for emergencies.
 
@@ -58,3 +59,54 @@ The force of the round almost threw him out of the cockpit as his plane fell pre
 
 *"That's the last scouting plane done for."*
 
+None of them had been seen, the enemy didn't use any kind of radar on their planes, the electronic warfare suites on all of the AS-23's were sitting there doing almost nothing. The high velocity 25mm rounds made short work of the craft that the Gra Valkans used. The U.S.F.D. would have to analyze the photography to see what kinds of capabilities they were up against, but all the pilots so far were hopeful. They seemed to be ancient, pre-space propeller planes, so just on altitude they would be lacking, not to mention speed or electronics.
+
+*"We've got some prisoners here, we'll need to get them secured. Some of the Vauxnian's are in bad shape, as well. The shit these people were doing..."* Ava's message trailed off, uncharacteristic of her. *"Send in some of the SM-23's, we're probably going to need a few."*
+
+While the AS-23 had a medical suite on board, it was geared towards soldiers and simulacra, and that would usually require evacuation to the main base for proper medical treatment. The SM-23 was geared as a medevac/flying hospital, with a multitude of beds for full hospital-level treatment even in transit, as well as ample cargo space to deploy a tent hospital from.
+
+Vauxnia, General Store
+----------------------
+
+Across from Namys was one of the soldiers that had saved the rest of the island, beside her was Casey, the mechanical man who had rescued her. None of their saviors looked human, even those who were verifiably human. Massive suits of armor covered every inch in plates, giving all of them an imposing, dangerous look. After hearing about the "battle" from some of the people that had been rescued, she almost didn't believe it.
+
+The soldier across released some seals on her helmet and removed it, revealing short cropped brown hair and hazel eyes. A definitely human face, unlike Casey's gray facsimile. She extended her gauntleted hand.
+
+"Colonel Ava Matthews, United Systems Frontier Defense Force. Pleased to finally make your acquaintance."
+
+Her gauntlet was perfectly room temperature, and felt cold to Namys' touch as she shook Ava's hand. They both returned to their seats, the chair under Ava's suit protested heavily at the weight.
+
+"Unofficially, the United Systems Frontier Defense Force would like to offer you their condolences for what happened to your people. I'm no diplomat, so it can't be official yet, but I've seen atrocities like this and no matter how often it happens it's no easier to look at. We will do what we can to keep it from happening, at least here."
+
+"We are eternally grateful, but we have never heard of anyone living to our north. Even here it gets completely inhospitable during the winter, and the nearest northern landmass is eternally covered in snow and ice."
+
+"For us, greenery and liquid water were a surprise to find. Where we come from, the entire planet is still completely covered in a thick layer of ice."
+
+"You were...on a different planet? But how did you get here?"
+
+"I'm not sure if we're supposed to say, but honestly, we don't know. What we do know is that we're currently cut off from our normal supply lines, and are in severe need of food and other resources that we would normally get from our ships."
+
+"With what you have done for our island, the least we can do is allow you to use part of it for food or resources. Our small town is the only one in the whole archipelago, and we pretty much stick around here. If you can use the land, it's yours."
+
+The Gra Valkans had tried to enslave them but Ava said they would not be replacing their government or enslaving anyone on the island. Instead, outlining some possible annexations of the island so that the U.S.F. base could grow food. Namys thought it was too little, but Ava wouldn't hear it.
+
+"A diplomat should be arriving shortly. We sent for one as soon as we could."
+
+---
+
+Outside of the building the air trembled. Namys and some of her fellow Vauxnians went to the door to look out and see what it was. A blue diamond was descending from the sky. No propellers, no visible wings, it was just in a very well controlled fall to the ground. As it neared the actual ground, the rumble increased in frequency and landing feet appeared from the bottom of the diamond. The ramp to the rear opened and four men wearing black suits, not unlike a Mu formal suit, stepped off the vehicle.
+
+Finley Price and his aides had been bored to tears until today, only having Corpo nutjobs to deal with, and the prospect of maybe getting some diplomacy done today gave them all exorbitant amounts of energy. Their smiles even put off Casey and Ava, neither of which had ever seen a diplomat smile like this.
+
+As the engines powered down and the din subsided, Finley stretched out his hand to Namys, the leader of this minor village they had stumbled upon.
+
+"My name is Finley Price, I'm a diplomat for the United Systems Frontier on Omuen 6. I'd like to discuss utilizing some of your land for crops and food production."
+
+On this day the Vauxnian Islands and the United Systems Frontier made a formal alliance. Included in the agreement were some of the following:
+
+* Vauxnia will remain a fully autonomous state, with its own leadership and laws, unless they directly oppose or interfere with the U.S.F.
+* The U.S.F. will maintain a small military presence on the island, but outside of the city of Vauxnia so as not to interfere with Vauxnian daily life.
+* The southern half of the island will be utilized by the U.S.F.
+* Military technology from the U.S.F. will be closely guarded, but some non-military technology will be introduced to Vauxnia to improve their lives.
+* Any invasion of Vauxnia will be seen as an invasion of the U.S.F. controlled territory, and will be defended at all costs.
+* The prisoners taken from the Gra Valkan Empire will be housed on the U.S.F. controlled territory of Vauxnia.

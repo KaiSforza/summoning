@@ -8,7 +8,8 @@ Characters
 * Clem - ship pilot
 * Ellie - human researcher from previous world
 * Ava Matthews - Defense Force Commander
-* Jaime Bates -
+* Jaime Bates - Squad leader for IFV squad
+* Finley Price - Head Diplomat for USF on Omuen 6
 
 * Namys Fenric - elven head of Vauxnia
 * Wyn - Owner of general store
