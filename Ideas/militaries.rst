@@ -49,13 +49,13 @@ The base probably has ~50 Apollo-like craft. The single airframe lowers maintena
   * Used for bringing supplies between outposts and from space to ground
   * Orange color scheme
 
-* 10 exploration - SX-23
+* 10 exploration - RX-23
 
   * One patient room replaced with sensor suites
   * detailed scanning arrays
   * Blue color scheme
 
-* 5 medevac - SM-23
+* 5 medevac - H-23
 
   * 6 medical beds each
   * significant medical supplies
@@ -63,7 +63,7 @@ The base probably has ~50 Apollo-like craft. The single airframe lowers maintena
   * short range plasma cutter beam weapon for rescue operations
   * Medical beds can be rotated and angled for space flight thrust
 
-* 10 military light-attack - AS-23
+* 10 military light-attack - AU-23
 
   * Transport focused. Can fit a whole CV-8 in the bay
   * With the CV-8 it can hold 16 more troops in the sides

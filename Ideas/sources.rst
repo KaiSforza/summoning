@@ -44,3 +44,15 @@ https://starcitizen.tools/Apollo_Medivac
 .. image:: ../_static/images/examples/Rampage_rifle_cosmetic.png
 
 https://apexlegends.fandom.com/wiki/Rampage_LMG
+
+.. image:: ../_static/images/examples/personnel/DustUp_Tactical_armor_set.jpg
+
+https://starcitizen.tools/File:DustUp_Tactical_armor_set.jpg
+
+.. image:: ../_static/images/examples/personnel/Defiance_Tactical_armor_set.jpg
+
+https://starcitizen.tools/File:Defiance_Tactical_armor_set.jpg
+
+.. image:: ../_static/images/examples/personnel/CSP-68M_Backpack.png
+
+https://starcitizen.tools/File:CSP-68M_Backpack.png

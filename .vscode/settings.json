@@ -35,6 +35,7 @@
     "Valkans",
     "Valkas",
     "Vauxnia",
+    "Vauxnian",
     "Vauxnians"
   ],
   "esbonio.sphinx.buildDir" : "${workspaceFolder}/_build/html",

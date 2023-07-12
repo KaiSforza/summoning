@@ -1,0 +1,74 @@
+Chapter 4
+=========
+Defense Force
+~~~~~~~~~~~~~
+
+Written June 7th, 2023
+
+.. 2023.07.07
+
+---
+
+Central Calendar, Day 9 Month 12 1639, Omuen Hangar 3
+-----------------------------------------------------
+
+Half of the base defense force was in a massive rush. The screens from Casey's visual recordings had been leaked by someone in the command center, and now everyone was helping get this show on the road. Col. Ava Matthews was leading this defense-turned-expeditionary force out for the first time since the storm, and she was more than on board with getting rid of people who would do things so vile, even if they were another seemingly sentient species.
+
+"Bates, get that IFV up the hatch, come on. We need to have left yesterday!"
+
+Acting as load master for the lead ship, she was heading out with almost all of the military AU-23 air/space craft. The sleek, stealth lines of the ship always looked excellent, the jagged edges of the rear ramp opening up into the bay the only imperfection. Shaped like a diamond from the top, they could hold an entire CV-8 fighting vehicle along with a full two squads and all of their equipment. Eight of the ten CV-8's were loaded up into the AU-23's and ready for takeoff, along with their crew and full 6-man specialist squads.
+
+A normal United Systems Frontier Defense squad was made up of 9 people, two fire teams and a specialist. The CV-8 squads were only 6 people with a single fire team and two specialists, along with the vehicle. Without the vehicle taking up space, a AU-23 could take 50 people comfortably. Including the retractable roof and belly armaments, these were extremely capable light support craft, and everyone currently gearing up felt a little better knowing they would be up there watching.
+
+With everyone almost ready, Ava opened up the base-wide channel.
+
+"Everyone here, whether you're coming with us or not, knows why we're going. They may not be any known Corpo, but they sure as hell act like one, and we're going to put an end to that."
+
+The only sound still going was the engine of the CV-8 still moving slowly up the ramp.
+
+"Make sure you're ready for the drop and don't let your guard down. The surveillance shots may look like an army out of the history books, but we have no idea what their full capabilities are. Everyone connect to the data jack and get familiar with the terrain scans. I want you seeing these on your eyelids."
+
+After she released the comm system, every helmet plugged into the hard-wire port by their seat. Even now the military still trusted physical connections over airwaves. Visors came down and she knew all of her men were going to be experts on the Vauxnian terrain in minutes.
+
+Vauxnia Harbor, Morning
+-----------------------
+
+The Gra Valkan Marine Force had quickly taken the island, as expected. Even with their small contingent, Egon thought he had a formidable fighting force. Along with the flagship, *Capelin*, a small host of destroyers and two medium aircraft carriers were under his command. The massive guns on *Capelin* could sink most of the encountered fleets in this new world without any trouble, and their special radar-sensing ammunition could even explode mid-air to defeat dozens of aircraft in a single shot.
+
+"All of our heavy construction vehicles have been offloaded, we should have a working base here in a few days." Savlik was in contact with the men on the ground through their advanced radio system, and his team was updating maps and moving pieces around as they received information from the island. The Radio Room was the nerve center of the fleet, and Egon looked around at the maps, pleased with the progress. While half was manually updated maps and overlays, the other half was dedicated to the current ships radar sensor. Able to detect ships and aircraft kilometers away, it had helped them pummel the fleets that had been dispatched to stop them time and time again.
+
+"Report in on the losses. They should be minimal."
+
+"Sir. We've lost twenty-three men, all enlisted, and a single tank due to track and subsequent engine failure, but that has been repaired. The carriers report zero aircraft losses."
+
+A completely normal report for the subjugation of one of these barbarian islands. Only losing 23 of their 5000 marines was barely a drop in the bucket, and the air power was much more important.
+
+"Um, there's something going on with the radar. Looks like one of those magnetic storms that got us last time. I'll have the techs get it back up and running."
+
+The main ship radio suddenly began to speak, and it was a woman's voice. No women were in the subjugation armies, and the voice was definitely not Gra Valkan.
+
+*"Enemy fleet, this is Colonel Ava Matthews of the United Systems Frontier Defense Force speaking."*
+
+Everyone on the bridge was looking around, puzzled. The radio operators were frantically trying to locate the source of the radio message.
+
+*"We have observed a small portion of the atrocities you have committed on this island and we can no longer stay silent. Should you with to surrender, please lay down your arms and disembark your ships immediately. You have two hours to comply."*
+
+"GET ME A FIX ON WHOEVER IS SENDING THAT MESSAGE!" Savlik's face was red with fury. His radio system had been hijacked by an enemy and they were still having trouble locating it. Egon was still marveling at someone asking them to surrender, until Savlik's shouting he had almost been laughing.
+
+"Relax, Savlik. No one on this planet has been able to stand up to us. Even Mu's ships are weak. This 'United System Defense' is probably just another small group of islands that got some radio technology from Mu and is going to show up with a couple civilian ships and small arms." Relaxed, Egon simply smiled. "Get that radar back up and running. If they can talk on the radio, the storm must have subsided."
+
+---
+
+High above, the AS-23's were in a holding pattern. The leader had started up their electronic warfare system and was currently jamming the enemy radar. Not that they had to, if they saw anything on the returns it would be about the size of a needle, and that's only if they got lucky.
+
+"We'll see how they react to the warning. We sent it directly at what looks to be the lead ship, I hope we got their encryption right."
+
+"Sir, they weren't using any encryption. It was just raw."
+
+Ava looked at the copilot almost in disbelief. "That makes it a bit easier, I guess." She turned on her encrypted ship-to-ship connection.
+
+*"Everyone, we have given them another hour, but as they still haven't detected our ships we are going to commence landing on the far side of the island. Ships 6, 7, and 8 will disembark on the south-east right now."*
+
+Through the combat awareness suite she could see three blue squares fly off away from the main formation. Below them, red diamonds dotted the surface, eight of them floating out in the island's harbor. After some signal flashes from the main ship, three of the smaller ships started to move out of the harbor, fanning out in three directions. A few of their aircraft also took off, flying ahead of the ships and fanning out in a full circle from the harbor.
+
+"Well, they do seem to be responding somewhat. The ground troops don't seem to be moving at all. Heat signatures still put them all over the town."
