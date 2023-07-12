@@ -1,6 +1,16 @@
 stages:
+  - test
   - deploy
   - release
+
+pages:
+  stage: test
+  image: python:alpine
+  script:
+    - python -m pip install sphinx
+    - sphinx-build -avTEW -b html . ./public
+  rules:
+    - if: $CI_MERGE_REQUEST_ID
 
 pages:
   stage: deploy
