@@ -9,8 +9,7 @@ test:
   script:
     - python -m pip install sphinx
     - sphinx-build -avTEW -b html . ./public
-    - echo $CI_PAGES_DOMAIN
-    - echo $CI_PAGES_URL
+    - env | sort
   # We're not saving this but it's here to look at just in case.
   artifacts:
     paths:
