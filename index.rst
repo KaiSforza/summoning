@@ -16,6 +16,8 @@
 
    Ideas/index
 
+Source: https://gitlab.com/kaictl/writing/summoning
+
 .. image:: _static/images/maps/Map_of_the_civilized_area_1200.png
   :width: 1200
 
@@ -27,4 +29,6 @@
 
 `Book source <https://gitlab.com/kaictl/writing/summoning>`_
 
-Inspired by Japan Summons/Nihonkoku Shoukan by みのろう
+Inspired by `Japan Summons/Nihonkoku Shoukan by みのろう`_
+
+.. _`Japan Summons/Nihonkoku Shoukan by みのろう`: http://mokotyama.sblo.jp/
