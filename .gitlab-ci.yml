@@ -9,13 +9,17 @@ test:
   script:
     - python -m pip install sphinx
     - sphinx-build -avTEW -b html . ./public
-    - env | sort
   # We're not saving this but it's here to look at just in case.
   artifacts:
     paths:
     - public
   rules:
     - if: $CI_MERGE_REQUEST_ID
+  environment:
+    # Env for each MR
+    name: Merge Request !$CI_MERGE_REQUEST_IID
+    url: https://${CI_PROJECT_ROOT_NAMESPACE}.${CI_PAGES_DOMAIN}/-/writing/${CI_PROJECT_NAME}/-/jobs/$CI_JOB_ID/artifacts/public/index.html
+    deployment_tier: development
 
 pages:
   stage: deploy
@@ -28,6 +32,10 @@ pages:
     - public
   rules:
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+  environment:
+    name: main
+    url: $CI_PAGES_URL
+    deployment_tier: production
 
 ebook:
   stage: deploy
