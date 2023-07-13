@@ -16,6 +16,8 @@ Characters
 
 * Savlik - Radio operator and head of communications in 3rd Subjugation Fleet
 * Egon - Head of Barbarian Diplomatic Relations for the Foreign Affairs Bureau
+* Oskar - Diplomatic Lt. for GVE Foreign Affairs Bureau (FAB)
+* Eike Baumstein - Head of FAB for GVE
 
 Locations
 ---------
