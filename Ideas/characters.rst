@@ -18,6 +18,7 @@ Characters
 * Egon - Head of Barbarian Diplomatic Relations for the Foreign Affairs Bureau
 * Oskar Glas - Diplomatic Lt. for GVE Foreign Affairs Bureau (FAB)
 * Eike Baumstein - Head of FAB for GVE
+* Hauke Schiefer - Military Intelligence officer
 
 * Marian Dufresne - Mu Diplomat
 

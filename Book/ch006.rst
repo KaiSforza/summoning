@@ -3,9 +3,9 @@ Chapter 6
 Gunboat Diplomacy
 ~~~~~~~~~~~~~~~~~
 
-Written June 12th, 2023
+Written June 14th, 2023
 
-.. 2023.07.12
+.. 2023.07.14
 
 Central Calendar, Day 3 Month 1 1640, Otaheit, Mu
 -------------------------------------------------
@@ -34,7 +34,7 @@ Foreign Affairs Bureau, Mu
 
 "The diplomats from the Gra Valkan Empire are here." The aide had seen the ship from the windows and was barely keeping her composure in check.
 
-"Alright, send them in. No reason to keep them waiting." Marian sipped the perfectly made coffee one last time and gathered up the papers in front of him. In front of him were reports and details from the island nation of Vauxnia. To him it was all insanity, but it was the only thing showing that Mu was not involved.
+"Alright, send them in. No reason to keep them waiting." Marian sipped the perfectly made coffee one last time and gathered up the papers in front of him. In front of him were reports and details surrounding the island nation of Vauxnia that showed that Mu was not involved.
 
 As the door opened, Marian and his aides were greeted with a terrible smile. Oskar walked in, opening his arms wide, "My Mu counterparts! Let's figure out some solution to this 'misunderstanding.'" The laugh that came later caused the hairs on the back of Marian's neck to rise.
 
@@ -52,4 +52,47 @@ All of the Mu diplomats looked on with stony faces, no one reveal anything to th
 
 "We have no record nor information about your fleet." Another map was placed on the board, "as you all can see, our fleets are busy in the south with training, and the ones up north are never far from our shores. Why we would be so far from our home makes no sense. We have seen your movements recently, and have found no reason to stop them or object through international law." *Not that they respect it themselves,* thought Marian.
 
-"All of the countries besides yours on and around this continent have been made into imperial holdings of the Gra Valkas Empire, and there is no way any other navy nearby could even come close to "
+"All of the countries besides yours on and around this continent have been made into imperial holdings of the Gra Valkas Empire, and there is no way any other navy nearby could even come close to even our older destroyers. We know it was a Mu fleet that did something."
+
+At least they would lower themselves to complement the Mu Navy a bit. They must actually not know what happened.
+
+"If you were so close to the northern ice floes at this time, your captains must have been wary of icebergs. There's no chance that a storm hit and all the ships were lost? We have lost countless ships in the past due to weather that far north, especially during the winter."
+
+"Our ships would have sent word if anything like that had happened, but we have heard nothing for weeks. If nothing else, a plane or an escort vessel would have reached Gra Valkas by now with news of whatever had happened."
+
+Marian pulled out some of the papers in front of him, sliding it across for Oskar to look at. On it were drawings of ships that had been spotted by Mu scout aircraft, along with ground and sea observation stations. The fuzzy, multi-colored diamonds on them were made even blurrier by the speeds at which they must have been moving, but they were all the same.
+
+"We have reason to believe that it was you who was violating our airspace without prior warning. These images do not match any of our planes, and the Mirishial Empire has also denied any knowledge or possession of an airborne asset like this. Due to your recent entry to the world stage, we believe this is one of your craft. It was reported to be flying from the north, where your ships were stationed and were lost."
+
+A puzzling expression appeared on Oskar's face. He had not anticipated anything like this, and the sheer number of photographs that had been handed to him showed no signs of tampering or modification. Whatever it was in these photos, it was real, but it was nothing that the Gra Valkans were using. It had no wings, no propellers, and it seemed to just be a flying diamond that almost blended in with the sky. Mu's photography and optics divisions were some of the best in the world, even surpassing the Gra Valkans, but somehow the ships were still blurry.
+
+"These...these aren't anything we fly." Even the prototype air-jet fighters they were testing needed wings to fly. Oskar was now simply curious. One of his aides, a military intelligence officer disguised as a diplomat, took the images and rifled through them, staring.
+
+"What did your scouts report their speeds as?" the military intelligence officer asked, forgetting that he was supposed to blend into the background.
+
+"They were unable to get good estimates, but they flew far above where our new single-wing fighters could reach, and much faster than them." To the Gra Valkans, this didn't mean much, as Mu had yet to add superchargers to their engines for high-altitude flight. "If these are not your airships, then we both may have more investigation to do before we continue this meeting."
+
+Disappointed that Mu was not being conquered, Oskar and his aides began to pack up their documents, as well as the photos that Mu had provided. Hauke, the military intelligence officer, walked out last, trying to figure out if his own government had kept a project like this secret from even him.
+
+United Systems Embassy in Vauxnia
+---------------------------------
+
+The early construction on the island was slowed down by the winter, but for the United Systems Frontier from Omuen 6, it was extremely mild compared to their previous winters. With special approval, a full embassy had been built in Vauxnia, showing that the U.S.F. was recognizing them as a fully fledged country, regardless their size.
+
+Oustide Mason Young's window were streets bustling with foot traffic. Vauxnia did not have any automobiles, not even ancient combustion engine ones that the country to the south, Mu, created. not unique in their mastery of simple mechanical systems, they were simply the nearest to Vauxnia, and many of the citizens had been there. Their reports closely matched up with what the survey ship's sensors had seen, but these people seemed to think it was the pinnacle of technology. After learning this, the diplomatic mission to Vauxnia had determined that they should limit the technology they showed to the outside world, for operational security and to keep anything from being *too* crazy for people here to believe. Sadly, they had already seen the military, who were unwilling to limit themselves the same way the civilian visitors were. No longer in heavy power armor, the small detachment at the embassy nonetheless looked extremely futuristic with the village as a backdrop.
+
+Inside the embassy it looked mostly like something back home: glass and steel with a heavy-duty reinforced concrete shell. Quite brutalist, but after the attack on the island before, even the Vauxnians understood the need. A main area on the first floor contained conference rooms and an large foyer, with limited technology for visiting Vauxnians to learn about the U.S.F., and for the U.S.F. visitors to get used to the allowed level of tech.
+
+The roof contained a landing pad for a single S-23 cargo ship, with more landing surfaces dotting the recently modified base to the south. A military base with newly fabricated defensive weaponry was erected a few kilometers west of the village, with most of the weaponry stowed to reduce how actually dangerous the base could be. The first multi-story agriculture building had been erected, as well. The current weather was still prohibitive to outdoor farming but the massive three story building had allow them to stave off starvation for now. Still rationing luxury food, most staples had returned to the people's pantries, and so far no one had been complaining.
+
+With tourism also coming ot the islands, a small number of them had been occupied by hotels built by the U.S.F. to be getaways from the mostly underground frontier base to the north. Able to use technology there, many didn't even bother going to visit Vauxnia, but the researchers were fascinated by the village and it's people.
+
+Genetic tests were done and it was confirmed that the people were humans, not just some lookalike species. Disease analysis had confirmed that diseases from the ancient Sol system seemed to exist here, as well, and simple medical treatment was allowed for those Vauxnians in need. So far, Vauxnian-U.S.F. relations seemed to be booming, but no Vauxnian's really knew the size or extent of the U.S.F. base as travel there had been restricted to U.S.F. citizens.
+
+---
+
+The expected retaliation attack had never materialized, and after thorough examination of the battlefield, both above and below the waves, the U.S.F. investigations had learned a lot about the Gra Valkas Empire. Large ships with utterly *massive* guns seemed to be the norm, and some of the history buffs on the base had gone absolutely nuts when they saw the releases from the survey teams.
+
+A professor at the local university had pulled up an index on weapons and warships from almost a millennia ago, and matched a lot of the findings to the entries detailed there. Once this connection was found, the whole base appeared to be engrossed in learning ancient Pre-Exodus Earth history.
+
+Rough political maps of the world were drawn up using knowledge from the villagers, as well as material recovered from the undersea wrecks. Finally understanding where they were in this world politically, the U.S.F. Diplomatic Post was ready to start talking to the world.
