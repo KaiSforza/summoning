@@ -32,3 +32,6 @@ Source: https://gitlab.com/kaictl/writing/summoning
 Inspired by `Japan Summons/Nihonkoku Shoukan by みのろう`_
 
 .. _`Japan Summons/Nihonkoku Shoukan by みのろう`: http://mokotyama.sblo.jp/
+
+.. image:: http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-sa.svg
+  :target: https://creativecommons.org/licenses/by-sa/4.0/
