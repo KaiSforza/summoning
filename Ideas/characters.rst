@@ -35,6 +35,7 @@ Things
 Ships
 ~~~~~
 * Capelin - flagship of the 3rd Subjugation Fleet
+* Adroit - Gra Valkan Navy Flagship (massive battleship)
 
 Air
 ~~~

@@ -1,11 +1,30 @@
 stages:
+  - setup
   - test
   - deploy
   - release
 
+setup:
+  stage: setup
+  image: alpine:latest
+  script:
+    - export CI_ARTIFACTS_URL=$(sed "s|$CI_PAGES_DOMAIN/|$CI_PAGES_DOMAIN/-/|" <(echo $CI_PAGES_URL))
+    - env | sort
+    - env | grep '^CI_ARTIFACTS_URL=' > .env
+  rules:
+    - if: $CI_MERGE_REQUEST_ID
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+  artifacts:
+    reports:
+      dotenv: .env
+    expire_in: 1 hour
+
+
 test:
   stage: test
   image: python:alpine
+  needs:
+    - setup
   script:
     - python -m pip install sphinx
     - sphinx-build -avTEW -b html . ./public
@@ -13,17 +32,20 @@ test:
   artifacts:
     paths:
     - public
+    expire_in: 1 day
   rules:
     - if: $CI_MERGE_REQUEST_ID
   environment:
     # Env for each MR
-    name: Merge Request $CI_MERGE_REQUEST_IID
-    url: https://${CI_PROJECT_ROOT_NAMESPACE}.${CI_PAGES_DOMAIN}/-/writing/${CI_PROJECT_NAME}/-/jobs/$CI_JOB_ID/artifacts/public/index.html
+    name: MR/$CI_MERGE_REQUEST_IID
+    url: ${CI_ARTIFACTS_URL}/-/jobs/$CI_JOB_ID/artifacts/public/index.html
     deployment_tier: development
 
 pages:
   stage: deploy
   image: python:alpine
+  needs:
+    - setup
   script:
     - python -m pip install sphinx
     - sphinx-build -avTEW -b html . ./public
@@ -41,14 +63,12 @@ ebook:
   stage: deploy
   image: python:alpine
   script:
-    - |
-      [[ $CI_COMMIT_TAG == $(python -c 'from conf import version; print(version)') ]]
     - python -m pip install sphinx
-    - sphinx-build -avTEW -b epub . ./public
-    - mv ./public/SummoningFrontier.epub ./SummoningFrontier-${CI_COMMIT_TAG}.epub
+    - sphinx-build -avTEW -d version=$CI_COMMIT_TAG -b epub . ./public
+    - mv ./public/*.epub "./${CI_PROJECT_NAME}-${CI_COMMIT_TAG}.epub"
   artifacts:
     paths:
-      - ./SummoningFrontier-${CI_COMMIT_TAG}.epub
+      - "./${CI_PROJECT_NAME}-${CI_COMMIT_TAG}.epub"
   rules:
     - if: $CI_COMMIT_TAG
 
@@ -64,8 +84,8 @@ package:
     - |
       curl \
         --header "JOB-TOKEN: $CI_JOB_TOKEN" \
-        --upload-file ./SummoningFrontier-${CI_COMMIT_TAG}.epub \
-        "${CI_API_V4_URL}/projects/${CI_PROJECT_ID}/packages/generic/Summoning/${CI_COMMIT_TAG}/SummoningFrontier-${CI_COMMIT_TAG}.epub"
+        --upload-file "./${CI_PROJECT_NAME}-${CI_COMMIT_TAG}.epub" \
+        "${CI_API_V4_URL}/projects/${CI_PROJECT_ID}/packages/generic/$CI_PROJECT_NAME/${CI_COMMIT_TAG}/${CI_PROJECT_NAME}-${CI_COMMIT_TAG}.epub"
   rules:
     - if: $CI_COMMIT_TAG
 
@@ -82,6 +102,5 @@ release_job:
     description: 'New ebook release'
     assets:
       links:
-        - name: 'Summoning Frontier $CI_COMMIT_TAG.epub'
-          url: "${CI_API_V4_URL}/projects/${CI_PROJECT_ID}/packages/generic/Summoning/${CI_COMMIT_TAG}/SummoningFrontier-${CI_COMMIT_TAG}.epub"
-
+        - name: '$CI_PROJECT_NAME $CI_COMMIT_TAG.epub'
+          url: "${CI_API_V4_URL}/projects/${CI_PROJECT_ID}/packages/generic/$CI_PROJECT_NAME/${CI_COMMIT_TAG}/${CI_PROJECT_NAME}-${CI_COMMIT_TAG}.epub"
