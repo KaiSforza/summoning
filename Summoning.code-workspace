@@ -6,5 +6,12 @@
 	],
 	"settings": {
 		"esbonio.sphinx.confDir": "${workspaceFolder}",
+	},
+	"extensions": {
+		"recommendations": [
+			"streetsidesoftware.code-spell-checker",
+			"lextudio.restructuredtext",
+			"gitlab.gitlab-workflow"
+		]
 	}
 }
