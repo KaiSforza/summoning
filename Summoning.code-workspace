@@ -6,6 +6,13 @@
 	],
 	"settings": {
 		"esbonio.sphinx.confDir": "${workspaceFolder}",
+		"cSpell.enableFiletypes": [
+      "!json",
+      "!jsonc",
+      "!python",
+      "!yaml",
+      "!yml"
+    ],
 	},
 	"extensions": {
 		"recommendations": [
