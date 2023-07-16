@@ -91,12 +91,27 @@ Finley nodded. "According to our scientists, the stars don't map up where we use
 
 The stoic face seemed to Finley to be proof that the man across from him was a good diplomatic plyer, but he didn't yet know Mu's history.
 
-"It's interesting that it's happened twice that we know of, now. First our continent, then your expedition. "
+"It's interesting that it's happened twice that we know of, now. First our continent, then your expedition."
+
+*First our continent? What?*
+
+"Sorry, let me give a quick history lesson about our country." Marian hadn't expected to have to do this, as it should be relatively common knowledge around the world.
+
+.. TODO:: FLESH THIS OUT
+
+"Around twelve centuries ago, the entire Mu continent disappeared from a planet we called 'Earth.' At the time, we were one of two major powers in that world. Then, suddenly, we found ourselves isolated, completely removed from the world we once knew. In completely unfamiliar territory, the once unified land of Mu split, and smaller states were formed on the south and west side of the continent. After meeting some of the other populations on the planet through our ships, we began trading, but were at a disadvantage because of our lack of magic. No one in Mu is naturally talented with magic, so we have spent over a millennia improving our technology to the point you see it now. Our modern ships, planes, automobiles and building materials can compete against even the magic kingdoms around this world.
+
+"The people who live here now are people of the new world, it's been a millennia since anyone here actually remembers the old world, but we have records in our museums."
+
+"Fascinating..." Finley almost couldn't contain his enthusiasm. *I have to see one of these museums.*
+
+"It's only fair that you now tell me more about your people and your situation, Mr. Price. If we didn't know better, we might say you're part of the Ravernal Empire, but I'm still standing so I'd venture a guess that's not where you're from."
+
+"No, sorry. I've never heard of any of this place before. The United Systems is a massive group of star systems that were inhabited by our peers. Most of them stayed "
+
+.. TODO:: Maybe this turns into its own chapter? some flashbacks to ancient Mu
+  and the pre-transfer USF? God, I'm so bad at writing dialogue...
 
 
 
-
-
-
-.. During the skirmish with the Gra Valkans and in the investigation that followed, the United Systems Frontier had gained an understanding of the Empire. From history data sources, they had matched a surprising number of their weapons and codes to ancient Earth technology.
 
