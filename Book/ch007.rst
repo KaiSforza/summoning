@@ -7,6 +7,8 @@ Written June 14th, 2023
 
 .. 2023.07.14
 
+.. todo:: This needs to be rewritten, I think. The start is good, but the end is fucking awful.
+
 Central Calendar, Day 14 Month 1 1640, Transit to Mu
 ----------------------------------------------------
 

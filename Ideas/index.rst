@@ -14,6 +14,8 @@ Information About the World
 
    sources
 
+.. TODOLIST::
+
 One of the things that I liked about `Japan Summons`_ is the fact that, while overpowered and unapologetically broken, they somewhat have to deal with supply constraints, modern trading partners not existing, Japan being very anti-nuke, the different ways of doing diplomacy, as well as having their hands tied behind their backs by the size and philosophy of their military. I want to keep that same idea going, with powerful, out-of-this-world weapons that aren't unlimited and aren't going to blanket the globe.
 
 After playing a bunch of Titanfall, I really liked the aesthetic. In terms of cool visual stuff, it really left an impression. I didn't want to bring the Titan part of it in, as that kind of...overpowers everything, but the movement, weapons, and machines are immensely cool and I think some cool stories could be told about them.
