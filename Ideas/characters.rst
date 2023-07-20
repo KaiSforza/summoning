@@ -10,6 +10,8 @@ Characters
 * Ava Matthews - Defense Force Commander
 * Jaime Bates - Squad leader for IFV squad
 * Finley Price - Head Diplomat for USF on Omuen 6
+* Mason Young - Airport manager at Fort Matthews
+* Blair Webb - Systems Engineer in the USFDF
 
 * Namys Fenric - elven head of Vauxnia
 * Wyn - Owner of general store
@@ -23,6 +25,7 @@ Characters
 * Valentin II - Emperor of Mu
 * Marian Dufresne - Mu Diplomat - Foreign Affairs Bureau
 * Roland Hebras - Marian's assistant and diplomat-in-training - FAB
+* Giselle Gardet - Engineer and Scientist from Mu
 
 Locations
 ---------
@@ -30,6 +33,7 @@ Locations
 * United Systems - original
 * Omuen 6 - home planet for research base
 * Vauxnia Islands - Small archipelago north of Mu, ~3000km north, right near arctic circle, but not in it.
+* Fort Matthews - military base on Vauxnia
 
 Things
 ------
