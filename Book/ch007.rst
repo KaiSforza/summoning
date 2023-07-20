@@ -3,9 +3,9 @@ Chapter 7
 Diplomatic Contact
 ~~~~~~~~~~~~~~~~~~
 
-Written June 14th, 2023
+Written June 20th, 2023
 
-.. 2023.07.14
+.. 2023.07.20
 
 Day 1, Month 2, 1640, United Systems Embassy in Vauxnia
 -------------------------------------------------------
@@ -56,4 +56,96 @@ Out of the corner of his eye he spotted it. The drone was no bigger than a pigeo
 
 ---
 
-Back at the Foreign Affairs Bureau Marian was busy trying to figure out what the handheld cameras of the copilots had captured. It was for sure a plane, but it had that fuzziness that the pictures from their negotiation with Gra Valkas showed.
+Back at the Foreign Affairs Bureau Marian was busy trying to figure out what the handheld cameras of the copilots had captured. It was for sure a plane, but it had that fuzziness that the pictures from their negotiation with Gra Valkas showed, but the shape was completely different. Maybe this was some kind of magic that the Mirishials were experimenting with, but then why would they say they're some "United Systems" thing?
+
+Some of the pieces were starting to fall into place in Marian's mind, but to fully build the puzzle he had to speak to the United Systems Frontier. Continued speculation would only lead to misunderstandings and death as it had with the Gra Valkans. A repeat of that was to be avoided at all costs.
+
+"We need to respond to this and stop another disaster. Send word to the Emperor, he'll want to know about this, as well. If we can get his permission, I would like to go myself to Vauxnia to see what this 'United Systems Frontier' is all about."
+
+Day 2, Month 2, 1640, Emperor's Chambers, Mu
+--------------------------------------------
+
+Emperor Valentin II was preparing himself for another day in front of the senate. Still an empire, Mu also had a moderately powerful people's senate to make sure that the country wasn't ruled from up in the clouds. The common people didn't see the same things he did, which he and his family knew from generations of rule made both of their decisions imperfect. For centuries, the imperial family continued to give the senate power, and some of Valentin's detractors made it out that the senate could even take over. It did itch at the back of his mind, but was not something anyone in his position had time to worry about.
+
+Having read the reports from both the military and his Foreign Affairs Bureau, Valentin had come to two possible conclusions: either Vauxnia had somehow hidden it's technological or magical prowess from Mu for decades, or another Gra Valkas had happened. Both were scary, but after the militant attitude of the Gra Valkans, it worried him more to find a whole new continent plopped into existence north of him as well as west.
+
+History had given the three main continents a wariness of new civilizations popping up. Even when Parpaldia had come into its own a century ago, there had been massive bloodshed on the eastern continent, and almost a war with their neighbors, the Mirishials as their expansionism poked and prodded across the oceans. Luckily, water had quickly doused their fires. Before the days of modern ships, crossing that ocean had been a rare and dangerous undertaking, mostly for trade, but at the time quantities were small. To get troops across would have been dangerous with the best of magic and technology at the time.
+
+Gra Valkas had further strained people's views of new countries. Almost appearing out of nowhere, massive ships larger than the grandest Mirishial magic battleship had come, making absolutely unreasonable demands of the natives and levelling cities if they failed to comply at all. Having thought this attitude gone with Parpaldia having reached their limit, it was a smack in the face to the current generations complacency.
+
+*Never again. We must hope that these United Systems people are a peaceful lot.*
+
+"Your Highness, the senate and the diplomats are ready in the chamber. They await your arrival."
+
+"I shall be there momentarily."
+
+History was going to be made this day, and Valentin hoped it would be a bloodless history.
+
+Mu Senate
+---------
+
+"Silence! His Highness has arrived! All rise!"
+
+Feet and chairs shuffled as almost a hundred senators, diplomats and other officials rose to show respect to their Emperor. A select few remained seated, some of the hard-line anti-imperialists who always tried their best to show disdain in the face of the emperor.
+
+As His Highness Valentin II walked to the center of the room, every eye followed him. The seat atop the dais was gilded by master craftsmen from Mu, royal history inscribed directly by their hands.
+
+"Please, sit." Valentin never felt right having the world standing and watching him. Only having worn the crown since 1632 when his father passed the crown to him early, it was still a bit surreal. Even the throne felt too large for a person. "Some of you know what this emergency meeting is about." Chatter began as people once again found their seats. "I would like Marian, the chief of the Foreign Affairs Bureau to show the senate what we are gathered here today for."
+
+"Your Highness, it is an honor." A massive transparent film display device had been brought out before the whole senate had gathered. Now the lights in the room dimmed and a white screen was erected beside Marian. "As a select few know, we have recently received a radio message from a country calling itself the 'United Systems Frontier.' We have no record of any nation going by this name before, so it's suspected this is a new nation. Possibly a collection of the norther islands, hence the 'United' part of their name."
+
+Whispering dominated the chamber.
+
+*What? Another new nation?*
+
+*Could it really be?*
+
+*Are we sure it's not the Ravernal Empire?*
+
+*No, no. They would never bother talking to us.*
+
+*Where are they?*
+
+*Do they have magic?*
+
+*I bet it's technology.*
+
+*No, it's probably both, like Parpaldia.*
+
+An image appeared on the white canvas. On it was the source of the radio messages they were all about to discuss. The fuzziness caused many senators to reach for their reading glasses, only to realize that they didn't help in this case. Another image popped up, this time with the secondary plane behind to give it a sense of scale. How a man could fit in there was puzzling to all of the senators, even those without knowledge of the military or aviation.
+
+"This is the craft that sent us the message. As you can see, it's unlikely that there is a human piloting this craft. Even now, almost 24 hours after the craft began broadcasting, it still circles the city, following a disconcertingly consistent path." Another slide cycled into view, this time a map of the capitol with a red circle showing the path of the drone. "It's not fast, but the technology used looks far more advanced than even the Gra Valkans, and after testing we didn't sense any magic from the device at all, ruling out the Mirishials."
+
+*How? There's no propeller!*
+
+*Have we tried just shooting it down?*
+
+*What if it's a weapon?*
+
+"Pilots that have been near the craft have reported that its speed matches that of our older generation fighters, but the shape is obviously nothing like our historic biplanes. The radio transmission was almost as interesting as the craft itself, though." On the screen the transcript was displayed.
+
+  *"Greetings, Empire of Mu. This is the United Systems Frontier base formerly in the Omuen system. We are reaching out to contact you as we have no knowledge of aggressive military action that Mu has taken recently. Currently we are based on the island of Vauxnia to your north. We would like to request a meeting to discuss opening diplomatic ties with you. After some problems that we encountered in Vauxnia with the Gra Valkan Empire, we feel that there is a mutual interest here."*
+
+The senators scrambled to get a better look, many once again grabbing glasses. An trio of interns walked around the hall, disseminating a printed copy of the message for them to read.
+
+"As you can see, they have unknown aircraft technology and know how to use radios in almost the same way we do."
+
+*What does this all mean?*
+
+*'Formerly in the Omuen system?' What even?*
+
+"The Foreign Affairs Bureau has come to the conclusion that replying and possibly meeting them is in our best interest. If we can avoid butting heads with any one of our neighbors, it could help us immensely, but we would need authorization from the senate and you, Your Highness. We have no protocol laid out in our laws for this new group."
+
+*Meet them? Hah!*
+
+*Why not? What's so bad about talking to them?*
+
+*Do they think they're a superpower? Worthless barbarians.*
+
+*Yeah, they're probably just a collection of barely inhabited northern islands.*
+
+*How do they have radios?*
+
+*Forget radios, what about flight?*
+
+Valentin rose from his seat and the chatter stopped. "Whether they are hostile or not, we will not know unless we can deal with them directly. You have my permission. What say you, senators?"

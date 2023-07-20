@@ -20,6 +20,7 @@ Characters
 * Eike Baumstein - Head of FAD for GVE
 * Hauke Schiefer - Military Intelligence officer
 
+* Valentin II - Emperor of Mu
 * Marian Dufresne - Mu Diplomat - Foreign Affairs Bureau
 
 Locations
