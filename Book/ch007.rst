@@ -48,7 +48,7 @@ Following direction from the ground control station was trivial, and the two pil
 
 *There's nothing here...*
 
-Out of the corner of his eye he spotted it. The drone was no bigger than a pigeon, it's wings elongated and designed for maximum endurance with very low power. It was slow, lazily and confidently tracing a circle over the capitol.
+Out of the corner of his eye he spotted it. The drone was no bigger than a pigeon, it's wings elongated and designed for maximum endurance with very low power. It was slow, lazily and confidently tracing a circle over the capital.
 
 "HQ, the transmitter appears to be about the size of a bird. Not sure if there are any people on board, but it doesn't look harmful. It's going slow, so if anything happens we can shoot it. Not sure how it's emitting a radio signal, at that size."
 
@@ -114,7 +114,7 @@ Whispering dominated the chamber.
 
 An image appeared on the white canvas. On it was the source of the radio messages they were all about to discuss. The fuzziness caused many senators to reach for their reading glasses, only to realize that they didn't help in this case. Another image popped up, this time with the secondary plane behind to give it a sense of scale. How a man could fit in there was puzzling to all of the senators, even those without knowledge of the military or aviation.
 
-"This is the craft that sent us the message. As you can see, it's unlikely that there is a human piloting this craft. Even now, almost 24 hours after the craft began broadcasting, it still circles the city, following a disconcertingly consistent path." Another slide cycled into view, this time a map of the capitol with a red circle showing the path of the drone. "It's not fast, but the technology used looks far more advanced than even the Gra Valkans, and after testing we didn't sense any magic from the device at all, ruling out the Mirishials."
+"This is the craft that sent us the message. As you can see, it's unlikely that there is a human piloting this craft. Even now, almost 24 hours after the craft began broadcasting, it still circles the city, following a disconcertingly consistent path." Another slide cycled into view, this time a map of the capital with a red circle showing the path of the drone. "It's not fast, but the technology used looks far more advanced than even the Gra Valkans, and after testing we didn't sense any magic from the device at all, ruling out the Mirishials."
 
 *How? There's no propeller!*
 
