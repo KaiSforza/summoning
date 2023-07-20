@@ -9,7 +9,7 @@
 project = 'Summoning Frontier'
 copyright = '2023, Kai Sforza'
 author = 'Kai Sforza'
-release = '0.2'
+release = '0.3'
 version = release
 language = 'en'
 
