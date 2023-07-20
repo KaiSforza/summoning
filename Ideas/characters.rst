@@ -22,6 +22,7 @@ Characters
 
 * Valentin II - Emperor of Mu
 * Marian Dufresne - Mu Diplomat - Foreign Affairs Bureau
+* Roland Hebras - Marian's assistant and diplomat-in-training - FAB
 
 Locations
 ---------
