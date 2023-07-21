@@ -11,12 +11,23 @@ setup:
     - export CI_ARTIFACTS_URL=$(sed "s|$CI_PAGES_DOMAIN/|$CI_PAGES_DOMAIN/-/|" <(echo $CI_PAGES_URL))
     - env | sort
     - env | grep '^CI_ARTIFACTS_URL=' > .env
+    - |
+      export TOTAL_WORDS=0
+      for FILE in Book/*.rst; do
+        WORDS=$(wc -w $FILE | tr ' ' '\n' | head -n1)
+        echo $FILE $WORDS | tee -a pre-metrics.txt
+        TOTAL_WORDS=$(echo "$TOTAL_WORDS + $WORDS" | bc)
+      done
+      echo "Total_Words" "$TOTAL_WORDS" | tee metrics.txt
+      cat pre-metrics.txt >> metrics.txt
+
   rules:
     - if: $CI_MERGE_REQUEST_ID
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
   artifacts:
     reports:
       dotenv: .env
+      metrics: metrics.txt
     expire_in: 1 hour
 
 
