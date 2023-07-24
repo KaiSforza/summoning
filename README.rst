@@ -38,6 +38,6 @@ Development
 .. note::
   Use the `Python: Create Environment...` command in vscode to get started with tasks and everything else.
 
-Feel free to submit MR's to `gitlab` for anything in this repository. I welcome any contributions, feedback and ideas. As long as they're constructive, they'll be taken into consideration.
+Feel free to submit MR's to `gitlab`_ for anything in this repository. I welcome any contributions, feedback and ideas. As long as they're constructive, they'll be taken into consideration.
 
 .. _gitlab: https://gitlab.com/kaictl/writing/summoning
