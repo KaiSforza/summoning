@@ -3,6 +3,8 @@
 # For the full list of built-in configuration values, see the documentation:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
+import os
+
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
@@ -23,7 +25,7 @@ extensions = [
 ]
 
 templates_path = ['_templates']
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'Ideas/bad', 'README.rst']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'Ideas/bad', 'README.rst', '.venv']
 
 
 
@@ -40,3 +42,11 @@ suppress_warnings = [
     'epub.unknown_project_files'
 ]
 epub_cover = ('_static/cover.png', '')
+
+## Okay this is hacky af
+exclude_epub = []
+for root, dirs, files in os.walk('_images/examples/'):
+  exclude_epub += ['_build/epub/' + root + f for f in files]
+epub_exclude_files = exclude_epub
+epub_max_image_width = 1236
+epub_fix_images = True

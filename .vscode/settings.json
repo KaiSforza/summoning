@@ -62,5 +62,7 @@
   "editor.wordWrap": "bounded",
   "editor.wordWrapColumn": 80,
   "editor.wrappingStrategy": "simple",
-  "restructuredtext.syntaxHighlighting.disabled": true
+  "restructuredtext.syntaxHighlighting.disabled": true,
+  "python.terminal.activateEnvironment": true,
+  "python.terminal.activateEnvInCurrentTerminal": true
 }

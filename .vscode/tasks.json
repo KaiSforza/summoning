@@ -4,53 +4,85 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Build html",
-      "type": "process",
-      "command": "sphinx-build",
-      "args": [
-        "-avTE",
-        "-b", "html", // builder
-        "${workspaceFolder}", // source
-        "${workspaceFolder}/_build/html", // dest
+      "label": "Build Everything",
+      "detail": "build html and epub",
+      "dependsOn": [
+        "Build html",
+        "Build ebook"
       ],
-      "presentation": {
-        "showReuseMessage": false,
-      },
+      "problemMatcher": [],
       "group": {
         "kind": "build",
         "isDefault": true
+      },
+    },
+    {
+      "label": "Build html",
+      "detail": "Creates a website in _build",
+      "type": "process",
+      "windows": {
+        "command": "${workspaceFolder}/.venv/Scripts/sphinx-build.exe"
+      },
+      "command": "${workspaceFolder}/.venv/Scripts/sphinx-build",
+      "args": [
+        "-avTEW",
+        "-b",
+        "html",
+        "${workspaceFolder}",
+        "${workspaceFolder}/_build/html"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": false
+      },
+      "presentation": {
+        "group": "build"
       }
     },
     {
       "label": "Build ebook",
+      "detail": "Outputs an epub file into _build",
       "type": "process",
-      "command": "sphinx-build",
-      "args": [
-        "-avTE",
-        "-b", "epub", // builder
-        "${workspaceFolder}", // source
-        "${workspaceFolder}/_build/epub", // dest
-      ],
-      "presentation": {
-        "showReuseMessage": false,
+      "windows": {
+        "command": "${workspaceFolder}/.venv/Scripts/sphinx-build.exe"
       },
+      "command": "${workspaceFolder}/.venv/Scripts/sphinx-build",
+      "args": [
+        "-avTEW",
+        "-b",
+        "epub",
+        "${workspaceFolder}",
+        "${workspaceFolder}/_build/epub"
+      ],
       "group": {
         "kind": "build",
         "isDefault": false
+      },
+      "presentation": {
+        "group": "build"
       }
     },
     {
       "label": "Clean",
+      "detail": "Clean up the _build directory",
       "type": "process",
-      "command": "sphinx-build",
-      "args": ["-M", "clean",
-        "${workspaceFolder}", // source
-        "${workspaceFolder}/_build", // dest
+      "windows": {
+        "command": "${workspaceFolder}/.venv/Scripts/sphinx-build.exe"
+      },
+      "command": "${workspaceFolder}/.venv/Scripts/sphinx-build",
+      "args": [
+        "-M",
+        "clean",
+        "${workspaceFolder}",
+        "${workspaceFolder}/_build"
       ],
       "problemMatcher": [],
       "group": {
         "kind": "none",
         "isDefault": false
+      },
+      "presentation": {
+        "group": "clean"
       }
     }
   ]

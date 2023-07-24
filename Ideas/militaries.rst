@@ -21,7 +21,7 @@ The 36mm variant can punch holes in almost everything using the assisted sabot r
 Adding some 'stats' below.
 
 
-.. image:: ../_static/images/examples/IFV_Example_CV_90_Mk_IV.jpg
+.. image:: ../_images/examples/IFV_Example_CV_90_Mk_IV.jpg
    :width: 300px
 
 .. include:: ./includes/cv-8.rst
@@ -76,9 +76,9 @@ The base probably has ~50 Apollo-like craft. The single airframe lowers maintena
   * Air-to-surface missiles in internal bays
   * Air-to-air and space-to-space missiles on engine nacelle internal bays
 
-.. image:: ../_static/images/examples/ships/Apollo_Triage_Concept.png
+.. image:: ../_images/examples/ships/Apollo_Triage_Concept.png
   :width: 49%
-.. image:: ../_static/images/examples/ships/Apollo_-_interior_layout.jpg
+.. image:: ../_images/examples/ships/Apollo_-_interior_layout.jpg
   :width: 49%
 
 
@@ -89,7 +89,7 @@ Again, these are mostly based around things from TF and Apex, with a more limite
 
 The standard rifle is used in different variants for multiple tasks. Parts similarities mean that having a bunch of custom weapons floating around is not really viable from a longevity standpoint. Something along the lines of the Rampage_ crossed with the R-301_ is what I'm thinking, a bullpup design with a compact area around the barrel. The barrel and upper could be replaced to suit different roles, with the same lower as they would all use the same ammunition, similar to an AR-15. This would give it modularity and standardization. Optical sights are standard on all of them, with added full-integration digital sights for Simulacra.
 
-.. image:: ../_static/images/examples/Rampage_rifle_cosmetic.png
+.. image:: ../_images/examples/Rampage_rifle_cosmetic.png
 
 Heavy weapons include a short range cutting beam that's mostly used for search and rescue. Mostly it's guided munitions from a rocket launcher.
 

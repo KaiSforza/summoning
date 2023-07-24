@@ -37,7 +37,7 @@ test:
   needs:
     - setup
   script:
-    - python -m pip install sphinx
+    - python -m pip install -r ./requirements.txt
     - sphinx-build -avTEW -b html . ./public
   # We're not saving this but it's here to look at just in case.
   artifacts:
@@ -58,7 +58,7 @@ pages:
   needs:
     - setup
   script:
-    - python -m pip install sphinx
+    - python -m pip install -r ./requirements.txt
     - sphinx-build -avTEW -b html . ./public
   artifacts:
     paths:
@@ -74,7 +74,7 @@ ebook:
   stage: deploy
   image: python:alpine
   script:
-    - python -m pip install sphinx
+    - python -m pip install -r ./requirements.txt
     - sphinx-build -avTEW -d version=$CI_COMMIT_TAG -b epub . ./public
     - mv ./public/*.epub "./${CI_PROJECT_NAME}-${CI_COMMIT_TAG}.epub"
   artifacts:

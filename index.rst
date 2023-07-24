@@ -7,6 +7,9 @@
  Summoning Frontier
 ====================
 
+.. image:: _static/cc-by-sa.svg
+  :target: https://creativecommons.org/licenses/by-sa/4.0/
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -18,7 +21,7 @@
 
 Source: https://gitlab.com/kaictl/writing/summoning
 
-.. image:: _static/images/maps/Map_of_the_civilized_area_1200.png
+.. image:: _images/maps/Map_of_the_civilized_area_1200.png
   :width: 1200
 
 .. note::
