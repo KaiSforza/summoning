@@ -26,6 +26,7 @@ Characters
 * Marian Dufresne - Mu Diplomat - Foreign Affairs Bureau
 * Roland Hebras - Marian's assistant and diplomat-in-training - FAB
 * Giselle Gardet - Engineer and Scientist from Mu
+* Matthias Clérisseau - historical, Mu author
 
 Locations
 ---------
