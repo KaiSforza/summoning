@@ -12,6 +12,7 @@ Characters
 * Finley Price - Head Diplomat for USF on Omuen 6
 * Mason Young - Airport manager at Fort Matthews
 * Blair Webb - Systems Engineer in the USFDF
+* Benson Decker - Second diplomat for USF, head of Vauxnia USF Embassy.
 
 * Namys Fenric - elven head of Vauxnia
 * Wyn - Owner of general store
@@ -43,6 +44,7 @@ Ships
 ~~~~~
 * Capelin - flagship of the 3rd Subjugation Fleet
 * Adroit - Gra Valkan Navy Flagship (massive battleship)
+* Wegner - GVE Carrier
 
 Air
 ~~~
@@ -51,6 +53,7 @@ Air
 * SX-23 - Specialist S-23 for exploration. Includes sensors, small med, etc.
 * SM-23 - Solely medical evac specialist
 * AS-23 - Attack/Space variant. Has transport, on-station strike and missiles
+* Watchtower - homegrown survey and positioning satellites
 
 Land
 ~~~~
