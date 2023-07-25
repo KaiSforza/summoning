@@ -11,7 +11,7 @@ import os
 project = 'Summoning Frontier'
 copyright = '2023, Kai Sforza'
 author = 'Kai Sforza'
-release = '0.3'
+release = '1.0'
 version = release
 language = 'en'
 
