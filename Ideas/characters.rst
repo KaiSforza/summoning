@@ -11,7 +11,7 @@ Characters
 * Jaime Bates - Squad leader for IFV squad
 * Finley Price - Head Diplomat for USF on Omuen 6
 * Mason Young - Airport manager at Fort Matthews
-* Blair Webb - Systems Engineer in the USFDF
+* Blair Webb - Systems Engineer in the U.S.F.D.F.
 * Benson Decker - Second diplomat for USF, head of Vauxnia USF Embassy.
 
 * Namys Fenric - elven head of Vauxnia
@@ -22,6 +22,7 @@ Characters
 * Oskar Glas - Diplomatic Lt. for GVE Foreign Affairs Department (FAD)
 * Eike Baumstein - Head of FAD for GVE
 * Hauke Schiefer - Military Intelligence officer
+* Kuno Glas - brother to Oskar, commander of 1st sub flt.
 
 * Valentin II - Emperor of Mu
 * Marian Dufresne - Mu Diplomat - Foreign Affairs Bureau

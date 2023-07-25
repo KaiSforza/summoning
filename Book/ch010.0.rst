@@ -3,9 +3,9 @@ Chapter 10
 Living
 ~~~~~~
 
-Written June 24th, 2023
+Written June 25th, 2023
 
-.. Written 2023.07.24
+.. Written 2023.07.25
 
 Day 7, Month 2, 1640, Hotel Vauxnia
 -----------------------------------
@@ -64,4 +64,64 @@ It looks like Gra Valkas had been silent too long.
 Gra Valkas First Subjugation Fleet
 ----------------------------------
 
-The *Wegner*
+On the *Wegner* were over 200 aircraft. Unlike the older model carriers which were simply converted tankers, shipping boats and other large civilian vessels, *Wegner* had been build from the ground up as an aircraft carrier.
+
+Able to carry a massive number of planes under the deck, it used steam elevators to push planes to the surface for flight. A completely novel idea for the Gra Valkans, it over tripled the number of aircraft they could carry, but it did have it's problems. It was slow, cumbersome and it required so much steam that the engines were forced to only drive the elevator when in use, effectively making it only usable while stationary. For an aircraft carrier, this wasn't an issue, though. Keeping anyone stupid enough away was a whole host of ships, including a full battleship that had been hastily assigned by the main fleet after the incident last year.
+
+*This is definitely a force to be reckoned with. We will crush these insects.*
+
+Mu had definitely interfered with the 3rd Subjugation Fleet, and it was Kuno Glas' job to bring their overwhelming force to the island and take their revenge. Whatever garrison the Mu military had sent out, they were ready.
+
+Submarines were lurking just above the surface, destroyers dominating above it, and aircraft carriers ready to darken the skies. Compared the the 3rd, this was almost triple the fleet.
+
+"Get me the all-ships radio." Kuno reached out and grabbed the headset from the radio operator, "Now hear this! Our glorious First Subjugation Fleet will be coming to Vauxnia shortly. We will level the island with our guns, bombs and treads, making it perfectly flat for an airfield!" Cheers could be felt through the deck, but the room Kuno was in remained silent. "Prepare yourselves! We will soon drink from the chalice of victory!"
+
+*Mu already knows our power. This will teach them to truly respect it.*
+
+Preliminary reports said that no ships had left north for Vauxnia from the Mu ports, only a single aircraft had left to Vauxnia. They were underestimating the power of the Gra Valkans after their fluke victory. Kuno would make sure it was the last time they did this.
+
+U.S.F. Embassy in Vauxnia
+-------------------------
+
+"No, Marian, you can't stay here. None of you can. We can't say exactly, but there is a fleet approaching and it definitely doesn't look friendly."
+
+"As dangerous as it might be, we have no way of getting past them with our plane. It's just not fast enough nor does it have the range for anything but a direct flight to Mu. We simply can't go back."
+
+Mixed emotions flooded Marian. The Gra Valkan fleet (He knew it was them) would be even greater than the one the Frontier had repelled last time.
+
+"You must tell me what the fleet is doing. I can possibly give you an idea of their capabilities, as we've seen many of their ships around our waters."
+
+"There's no need. We have all of the ships' details, it's just a matter of figuring out what we need to conduct our defensive operation."
+
+*How? No one had left the base, right? I haven't heard any of those massive craft take off, so how do they know?*
+
+"Sadly, we can't tell you how we got this information, but we may be able to talk about this in the future. If leaving is not an option, we can get you and the other Mu citizens settled in the embassy. That place should be one of the safer locations outside of the base."
+
+Now Marian understood the imposing architecture. It wasn't just beyond modern, it was meant to withstand attacks like this.
+
+---
+
+Preparations were under way by the Frontier Defense Force, CV-8's were readying themselves on the shores and in the forests, digging in where possible, but the real star of the show was going to be the AS-23. Ships that traveled the sea were a thing of the past for the Frontier, their cost an utility just didn't warrant use anymore over air and space craft with modern engines. The ability to head into space instead of just being stuck on land made them a must for any frontier. As attack craft with modern engines, weapons, failure modes, AI and shielding, they had become the sea ships of the future. But these ones could travel at speeds unimaginable to a sea ship.
+
+Modified shells were being distributed with utility trucks to the different hangars, shipments of them having just arrived after the Gra Valkan fleet turned their bows towards Vauxnia. Loading doors marred the smooth surface of the AS-23's as mechanical loaders filled the weapons bays from the ground.
+
+Troops were also ready to sit in the holds in case boarding actions were necessary, which would take place from the sky. The maneuvering jets the troops had were massively more powerful than the ones Casey Simpson had used to jump out of the exploration vehicle at the end of last year. Able to hover and fully maneuver, these were truly fearsome weapons for individual aerial combat. Originally designed for boarders onto slower moving air and space vessels, the tests showed they would perform well within specification against ships moving at a measly 40 km/h.
+
+Two Days Later
+--------------
+
+Some of the engineers had requested to watch the battle unfold. They wanted to see the U.S.F. weapons at work. Having already experienced them at the airfield and seeing some of them fire, they were fascinated by the sheer power that they seemed to have. Even the small arms seemed years ahead of anything the engineers had imagined.
+
+At last it was time. Finley and Benson were in the room with them, and the wall in front suddenly came to life. On it looked like a map, but so detailed it almost seemed like a photograph. Blue arches were currently flying over the open ocean at altitudes that made Marian's stomach wince, along with a series of blue rectangles on the coast of the island. Ahead of them were dozens of red diamonds in an inverted 'v' formation.
+
+Benson finally realized that the symbols meant nothing to the Mu and began an explanation, "the blue are our friendly forces, the arches are the AS-23's and the squares our CV-8 groups. Red diamonds are the hostile ships we have scouted, and base on the composition we should be seeing some air power show up as red house shapes."
+
+"Is this what is actually happening? I can see the clouds moving around on the screen, but to get a photograph like this you would hae to be so high, no plane could take this."
+
+"Yes, they're live. Everything you see in front of you is actually happening. We have images coming to us from orbit."
+
+At this some of the engineers almost fainted.
+
+"We'll be sending radio messages to them first, but if they respond aggressively or don't respond at all, we'll commence the operation in earnest."
+
+Data began to pop up on Finley's personal feed, showing that the message drones were broadcasting. *Now it's getting real. Let's see if they continue to run themselves into the concrete wall.*
