@@ -13,6 +13,7 @@ Characters
 * Mason Young - Airport manager at Fort Matthews
 * Blair Webb - Systems Engineer in the U.S.F.D.F.
 * Benson Decker - Second diplomat for USF, head of Vauxnia USF Embassy.
+* Taylor Graham - Head of USF Omuen 6
 
 * Namys Fenric - elven head of Vauxnia
 * Wyn - Owner of general store
