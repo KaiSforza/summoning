@@ -60,3 +60,13 @@ https://starcitizen.tools/File:Defiance_Tactical_armor_set.jpg
   :width: 49%
 
 https://starcitizen.tools/File:CSP-68M_Backpack.png
+
+.. image:: ../_images/examples/personnel/MMC_Concept_1.png
+  :width: 49%
+.. image:: ../_images/examples/personnel/MMC_Concept_2.png
+  :width: 49%
+
+https://expanse.fandom.com/wiki/Martian_Marine_Corps#Images
+
+.. image:: ../_images/examples/personnel/MMC_helmet_backpack.png
+  :width: 49%
