@@ -12,7 +12,7 @@ Day 1, Month 2, 1640, United Systems Embassy in Vauxnia
 
 All of the U.S.F. employees in the embassy were moving around like mice. After almost a month of preparation, development and planning, the main construction on the island of Vauxnia had been completed: the military base was fully functioning and supply ships were flying back and forth on regular schedules with hydroponic produce.
 
-But one thing was missing. Until recently, the U.S.F. was simply listening for radio messages. They would send them out if prompted, but it was only ever local radio coverage. After understanding the technology limitations that they would have to stay within reason of, the U.S.F. had designed a series of small satellites to send into orbit. While not a full constellation yet, A rotation of spacecraft were stationed in the space above both the U.S.F. base and Vauxnia. This gave quality reconnaissance over the main areas the U.S.F. had control over, as well as communications between the zones. With the ship above Vauxnia, it could send radio signals all the way to the Mu continent, potentially opening up a line of communication with the people Vauxnia traded with in the past.
+Until recently, the U.S.F. was simply listening for radio messages. After understanding the technology the world used, they had sent updates to the satellites in orbit to mimic actual Mu radios. Even drones were commissioned to send radio signals from the ground, not from space. Communications were about to get *much* busier when they tried to contact the nearby Mu continent.
 
 Right after lunch, almost all of the diplomats were gathered outside Finley Price's door. Inside, they were preparing to send the message that would make contact with the second strongest empire on the planet.
 
@@ -37,7 +37,7 @@ Almost none of the non-superpowers had aircraft, and the height that the radio o
 
 "For over an hour, sir. It's just been circling far overhead the whole time."
 
-"We'd better send open up a channel or they'll run out of fuel and go home."
+"We'd better open up a channel or they'll run out of fuel and go home."
 
 Nothing about the message seemed aggressive, but Marian ordered a pair of Mu's newest fighters to go and check out whatever was sending these signals.
 
@@ -52,7 +52,7 @@ Out of the corner of his eye he spotted it. The drone was no bigger than a pigeo
 
 "HQ, the transmitter appears to be about the size of a bird. Not sure if there are any people on board, but it doesn't look harmful. It's going slow, so if anything happens we can shoot it. Not sure how it's emitting a radio signal, at that size."
 
-*"Roger. Wait, what did you say?"*
+*"Repeat that last. We heard it's the size of a bird?"*
 
 ---
 
@@ -69,9 +69,9 @@ Emperor Valentin II was preparing himself for another day in front of the senate
 
 Having read the reports from both the military and his Foreign Affairs Bureau, Valentin had come to two possible conclusions: either Vauxnia had somehow hidden it's technological or magical prowess from Mu for decades, or another Gra Valkas had happened. Both were scary, but after the militant attitude of the Gra Valkans, it worried him more to find a whole new continent plopped into existence north of him as well as west.
 
-History had given the three main continents a wariness of new civilizations popping up. Even when Parpaldia had come into its own a century ago, there had been massive bloodshed on the eastern continent, and almost a war with their neighbors, the Mirishials as their expansionism poked and prodded across the oceans. Luckily, water had quickly doused their fires. Before the days of modern ships, crossing that ocean had been a rare and dangerous undertaking, mostly for trade, but at the time quantities were small. To get troops across would have been dangerous with the best of magic and technology at the time.
+History had given the three main continents a wariness of new civilizations popping up. Even when Parpaldia had come into its own a century ago, there had been massive bloodshed on the eastern continent, and almost a war with their neighbors, the Mirishials, as their expansionism poked and prodded across the oceans. Luckily, water had quickly doused their fires. Before the days of modern ships, crossing that ocean had been a rare and dangerous undertaking, mostly for trade, but at the time quantities were small. To get troops across would have been dangerous with the best of magic and technology at the time.
 
-Gra Valkas had further strained people's views of new countries. Almost appearing out of nowhere, massive ships larger than the grandest Mirishial magic battleship had come, making absolutely unreasonable demands of the natives and levelling cities if they failed to comply at all. Having thought this attitude gone with Parpaldia having reached their limit, it was a smack in the face to the current generations complacency.
+Gra Valkas had further strained people's view of new countries. Almost appearing out of nowhere, massive ships larger than the grandest Mirishial magic battleship had come, making absolutely unreasonable demands of the natives and levelling cities if they failed to comply even slightly. Having thought this attitude gone with Parpaldia having reached their limit, it was a smack in the face to the current generation's complacency.
 
 *Never again. We must hope that these United Systems people are a peaceful lot.*
 
@@ -92,7 +92,7 @@ As His Highness Valentin II walked to the center of the room, every eye followed
 
 "Please, sit." Valentin never felt right having the world standing and watching him. Only having worn the crown since 1632 when his father passed the crown to him early, it was still a bit surreal. Even the throne felt too large for a person. "Some of you know what this emergency meeting is about." Chatter began as people once again found their seats. "I would like Marian, the chief of the Foreign Affairs Bureau to show the senate what we are gathered here today for."
 
-"Your Highness, it is an honor." A massive transparent film display device had been brought out before the whole senate had gathered. Now the lights in the room dimmed and a white screen was erected beside Marian. "As a select few know, we have recently received a radio message from a country calling itself the 'United Systems Frontier.' We have no record of any nation going by this name before, so it's suspected this is a new nation. Possibly a collection of the norther islands, hence the 'United' part of their name."
+"Your Highness, it is an honor." A massive transparent film display device had been brought out before the whole senate. The lights in the room dimmed and a white screen was erected beside Marian. "As a select few know, we have recently received a radio message from a country calling itself the 'United Systems Frontier.' We have no record of any nation going by this name before, so it's suspected this is a new nation. Possibly a collection of the northern islands, hence the 'United' part of their name."
 
 Whispering dominated the chamber.
 
@@ -154,4 +154,4 @@ Valentin rose from his seat and the chatter stopped. "Whether they are hostile o
 
 Deliberation in the senate was never quick. Even simple issues could take days, even months to come to a conclusion. A massive ship turns very, very slowly, and in a country of over 100 million souls, the ship is truly enormous.
 
-Every once in a long while, a decision is made quickly, and this was one of those times. The news agencies were still drying the ink on their coverage of the new nation when the senate decided. Even the anti-imperialists were strongly for opening a dialog with this new country. A resounding 'yes' was heard through the hall, and preparations were made to send a diplomatic mission to Vauxnia.
+Every once in a long while, a decision is made quickly, and this was one of those times. The news agencies were still drying the ink on their coverage of the new nation when the senate decided. Even the anti-imperialists were strongly for opening a dialog with this new country. A resounding 'yes' was heard through the hall, and preparations were made to send a diplomatic mission to Vauxnia. All of the senators wanted to avoid war, and if this helped them do it, so be it.
