@@ -1,0 +1,16 @@
+Book/* @KaiSforza
+index.rst @KaiSforza
+Ideas/* @KaiSforza
+_images/* @KaiSforza
+_static/* @KaiSforza
+
+.vscode @KaiSforza
+.gitlab-ci.yml @KaiSforza
+Summoning.code-workspace @KaiSforza
+.editorconfig @KaiSforza
+
+conf.py @KaiSforza
+requirements.txt @KaiSforza
+
+README.rst @KaiSforza
+CONTRIBUTING.md @KaiSforza
