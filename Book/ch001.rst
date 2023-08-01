@@ -33,7 +33,7 @@ Written June 6th, 2023
    Mostly benevolent people
    Have provisions for defense, but that's it for now
 
-The tunnels of Omuen 6 might be safe from the biting winds, but they were by no means a place humans wanted to be. An ice storm raged 10 meters above, and according to the weather stations it would be like this for another eight rotations. The lighting underground was set to a Galactic Day of exactly 24 hours, and Omuen 6 has a rotational period of about 36 hours, giving it quite a different appearance above ground sometimes..
+The tunnels of Omuen 6 might be safe from the biting winds, but they were by no means a place humans wanted to be. An ice storm raged 10 meters above, and according to the weather stations it would be like this for another eight rotations. The lighting underground was set to a Galactic Day of exactly 24 hours, and Omuen 6 has a rotational period of about 36 hours, giving it quite a different appearance above ground sometimes.
 
 Cold didn't bother Casey, though he did understand the temperature around him. In order to do survey work above ground, about half of the entire base's 532,586 residents were Simulacra: human minds transferred to mechanical bodies. This was a popular choice given the line of work for frontier scientists, the hazardous locations either necessitated massive suits to combat the pre-terraforming environment or the use of unwieldy drones. Still with human minds, they couldn't be copied without 'shutting down' the previous host, making them only really used in the frontier for legal reasons. Bipedal and human shaped with obvious mechanical parts, some chose to have a human face mask if they were regularly interfacing with non-Simus, but a lot of researchers kept the standard protective shell-and-sensor look.
 
@@ -43,7 +43,7 @@ Casey had a custom face designed with custom flexible plastics to maintain a bet
 
 "Yeah, cold is still cold regardless." Nothing special had been found on the planet, scientists were mostly busy manning the terraforming stations and gathering samples from around the equator, as well as testing extreme condition materials. Just a few hundred km south the winds and temperature would only cause frostbite after a minute, not instantaneously, making it a bit less inhospitable and a good benchmark for how the planet's terraforming had come along.
 
-The underground tunnel came to an end and both scientists keyed into the colony's research facility. Multiple underground stories, the top floor lobby was massive. The United Systems didn't spare much when it came to research and lab facilities, and the interior showed. The main, central building to the whole colony, it was about a whole square kilometer of flooring per story. Inside it was furnished with fake wood and metal fixtures to warm up the brutalist interior. Through the interior glass walls scientists could be seen analyzing less hazardous samples and filling out reports. On this floor most were humans, and it contained less dangerous experiments and materials. Below were the more dangerous tasks, many performed by teams consisting solely of Simulacra like Casey.
+The underground tunnel came to an end and both scientists keyed into the colony's research facility. Multiple underground stories, the top floor lobby was massive. The United Systems didn't spare much when it came to research and lab facilities, and the interior showed. The main, central building to the whole colony was about a whole square kilometer of flooring per story. Inside it was furnished with fake wood and metal fixtures to warm up the brutalist interior. Through the interior glass walls scientists could be seen analyzing less hazardous samples and filling out reports. On this floor most were humans, and it contained less dangerous experiments and materials. Below were the more dangerous tasks, many performed by teams consisting solely of Simulacra like Casey.
 
 Surrounding the research facility were the living quarters, food, businesses, underground farms and manufacturing facilities. It was, though somewhat cold, a relatively comfortable place for a frontier base. Compared to earlier designs, the power and infrastructure setups had been vastly improved, with better temperature controls and thermal engineering inside the buildings, reducing failures as well as improving comfort. Expansion wasn't really a thought, the small growth in population that the colony experienced year to year was easily taken care of with the current overbuilt facilities. Food, required for half of the residents, was largely shipped in, though the farms below had begun to offset the requirements slightly.
 
@@ -56,15 +56,15 @@ The sheer ferocity of the surface storms meant the ships orbiting with supplies 
 
 *Supplies are coming at last. We are on the last of our food. Any longer and this storm could have brought our base to an end.*
 
-The ships above were filling with ice, valuable material for the interstellar ships used to traverse the galaxy, and they would return laden with copious amounts of fresh food, some pre-fabricated systems and a couple personnel this time. Specialists to help analyze some findings in real time.
+The ships above were filling with ice, valuable material for the interstellar ships used to traverse the galaxy, and they would return laden with copious amounts of fresh food, some prefabricated systems and a couple personnel this time. Specialists to help analyze some findings in real time.
 
-*"Tower to Ship Zero Three Nine, cleared for take off."*
+*"Tower to Ship Zero Three Nine, cleared for take-off."*
 
 *"Zero Three Nine lifting off. See you soon, Tower."*
 
 With all the supplies waiting for them in orbit it might be another three earth months before they saw another interstellar resupply.
 
-*"Tower, We're seeing something odd up here. The supply ships...They were right on our trajectory? Confirm."*
+*"Tower, we're seeing something odd up here. The supply ships...They were right on our trajectory? Confirm."*
 
 *"Confirmed. Resupply should be...Hold that."*
 
@@ -72,7 +72,7 @@ Listening to the transmission, Casey had a sudden feeling of dread. Had the Corp
 
 *"Tower, you're not going to believe this, but I see...oceans."*
 
-Casey stood up. No. The terraforming had only been started ten years ago, they shouldn't be seeing any melted ice this early. Something's not right. Maybe the ships are having sensor problems? Did someone hack the ship's ocular feed? It had been done before to cover up corpos around their colony and terraforming facilities, but to show an ocean?
+Casey stood up. No. The terraforming had only started ten years ago, they shouldn't be seeing any melted ice this early. Something's not right. Maybe the ships are having sensor problems? Did someone hack the ship's ocular feed? It had been done before to cover up corpos around their colony and terraforming facilities, but to show an ocean?
 
 *"They're real. Good gods, they're real oceans. And there's green. I haven't seen green land for a decade. John, look out the port side hatch..."*
 
@@ -82,7 +82,7 @@ Another voice chimed in, quieter, obviously further from the mic. The pilot had 
 
 *"Confirmed. We have detected them too. The temperature here is still dangerously low, but I'd wager that it'd take minutes to get frostbite now. That kind of shift shouldn't be possible."*
 
-Casey rushed to the north exit of the base, as the southern one had been locked in by ice during the storm. His temperature sensors in the caves weren't telling him anything different, but as soon as he stepped outside he knew.
+Casey rushed to the north exit of the base, as the southern one had been locked in by ice during the storm. His temperature sensors in the caves weren't telling him anything different, but as soon as he stepped outside, he knew.
 
 *This...isn't Omuen 6.*
 
@@ -111,7 +111,7 @@ At least to the magnetic south, there seemed to be no ice, but over the base and
 
 One of the ships had gone into low orbit and was astonished that the planet looked nothing like the expected tectonic layout of Omuen 6. It seemed to be about the same size, but rotated much faster and was getting much more stellar radiation. Their star twas an F class main sequence star, and the planet was spinning right in the center of the Goldilocks zone. Everything looked primed for a habitable world that needed no terraforming whatsoever. Now it was just a problem of examining the native flora and fauna. The base was equipped for this, but all the equipment would need to be fabricated or dusted off.
 
-Even in the sky there were no traces of unnatural satellites, just a pair of moons, one large and close to the planet, the other barely caught by the planet's gravity. And now the survey ship flying out there as well, laying out standard positioning and communication satellites in a hasty web.
+Even in the sky there were no traces of unnatural satellites, just a pair of moons, one large and close to the planet, the other barely caught by the planet's gravity. And now the survey ship is flying out there as well, laying out standard positioning and communication satellites in a hasty web.
 
 *Wherever we are, it's no longer the Omuen system at all. But how?*
 
@@ -120,7 +120,7 @@ Even in the sky there were no traces of unnatural satellites, just a pair of moo
 Central Calendar, Day 8 Month 12 1639, Vauxnia Islands
 ------------------------------------------------------
 
-On an almost uninhabited archipelago north of the Mu continent, nearby the third civilization zone there exists only a single minor village on the largest island. The discovery of oil deposits had helped them advance slowly but surely and also remain independent, and the rugged, dangerous terrain and harsh winter weather had kept out most invaders for centuries.
+On an almost uninhabited archipelago north of the Mu continent, near the third civilization zone there exists only a single minor village on the largest island. The discovery of oil deposits had helped them advance slowly but surely and also remain independent, and the rugged, dangerous terrain and harsh winter weather had kept out most invaders for centuries.
 
 With a population of only a few hundred it was a quiet existence for the inhabitants. Small ships moved oil out to Mu, creating a small but useful trade route for the island.
 

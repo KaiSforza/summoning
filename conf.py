@@ -50,3 +50,6 @@ for root, dirs, files in os.walk('_images/examples/'):
 epub_exclude_files = exclude_epub
 epub_max_image_width = 1236
 epub_fix_images = True
+
+# For skipping unicode stuff.
+latex_engine = 'lualatex'

@@ -10,7 +10,7 @@ Written June 20th, 2023
 Day 1, Month 2, 1640, United Systems Embassy in Vauxnia
 -------------------------------------------------------
 
-All of the U.S.F. employees in the embassy were moving around like mice. After almost a month of preparation, development and planning, the main construction on the island of Vauxnia had been completed: the military base was fully functioning and supply ships were flying back and forth on regular schedules with hydroponic produce.
+All of the U.S.F. employees in the embassy were moving around like mice. After almost a month of preparation, development and planning, the main construction on the island of Vauxnia had been completed: the military base was fully functioning, and supply ships were flying back and forth on regular schedules with hydroponic produce.
 
 Until recently, the U.S.F. was simply listening for radio messages. After understanding the technology the world used, they had sent updates to the satellites in orbit to mimic actual Mu radios. Even drones were commissioned to send radio signals from the ground, not from space. Communications were about to get *much* busier when they tried to contact the nearby Mu continent.
 
@@ -18,9 +18,9 @@ Right after lunch, almost all of the diplomats were gathered outside Finley Pric
 
 *"Greetings, Empire of Mu. This is the United Systems Frontier base formerly in the Omuen system. We are reaching out to contact you as we have no knowledge of aggressive military action that Mu has taken recently. Currently we are based on the island of Vauxnia to your north. We would like to request a meeting to discuss opening diplomatic ties with you. After some problems that we encountered in Vauxnia with the Gra Valkan Empire, we feel that there is a mutual interest here."*
 
-Following were a series of instructions to help the Mu reply and send a diplomatic ship or plane. Everything was repeated so that they should be able to get a full message at some point. The drone that contained the message was sent out and would circle over the Mu capital slowly to transmit, and the replies would be routed and sent to Finley and his team.
+Following the message were a series of instructions to help the Mu reply and send a diplomatic ship or plane. Everything was repeated so that they should be able to get a full message at some point. The drone that contained the message was sent out and would circle over the Mu capital slowly to transmit, and the replies would be routed and sent to Finley and his team.
 
-The doors finally opened and Finley saw his subordinates outside, waiting, barely anyone even breathing.
+The doors finally opened, and Finley saw his subordinates outside, waiting, barely anyone even breathing.
 
 "We've sent the drone and finalized the message. Now the ball is in Mu's court."
 
@@ -29,7 +29,7 @@ Mu Foreign Affairs Bureau
 
 "Sir, the military has sent us a message. They've found a plane sending a radio message on one of our common shipping frequencies." A yellow signals department memo was placed in front of Marian. The signals analysis team had transcribed and notated message, along with a detail of the signal strength, approximate location and movement. "It looks like they want a reply, they even sent the frequency and type of signal they will be looking for. What do we do?"
 
-Marian read through the message. A few years ago something similar had happened with the Gra Valkas Empire. Instead of radio messages, they had sent envoys on warships to intimidate or simply level other small countries. They had come out of nowhere, just like this "United Systems Frontier" seemed to. Their location far to the north in the small islands of Vauxnia suggested that they had probably borrowed a plane and a radio from the magical Mirishials but didn't have the technology to make their own.
+Marian read through the message. A few years ago, something similar had happened with the Gra Valkas Empire. Instead of radio messages, they had sent envoys on warships to intimidate or simply level other small countries. They had come out of nowhere, just like this "United Systems Frontier" seemed to. Their location far to the north in the small islands of Vauxnia suggested that they had probably borrowed a plane and a radio from the magical Mirishials but didn't have the technology to make their own.
 
 Almost none of the non-superpowers had aircraft, and the height that the radio operators were saying this message came from was out of reach of any dragon or wyvern.
 
@@ -44,13 +44,13 @@ Nothing about the message seemed aggressive, but Marian ordered a pair of Mu's n
 Airspace Over Mu
 ----------------
 
-Following direction from the ground control station was trivial, and the two pilots made contact with the radio signal source, or at least where it was supposed to be.
+Following directions from the ground control station was trivial, and the two pilots made contact with the radio signal source, or at least where it was supposed to be.
 
 *There's nothing here...*
 
-Out of the corner of his eye he spotted it. The drone was no bigger than a pigeon, it's wings elongated and designed for maximum endurance with very low power. It was slow, lazily and confidently tracing a circle over the capital.
+Out of the corner of his eye he spotted it. The drone was no bigger than a pigeon, its wings elongated and designed for maximum endurance with very low power. It was slow, lazily and confidently tracing a circle over the capital.
 
-"HQ, the transmitter appears to be about the size of a bird. Not sure if there are any people on board, but it doesn't look harmful. It's going slow, so if anything happens we can shoot it. Not sure how it's emitting a radio signal, at that size."
+"HQ, the transmitter appears to be about the size of a bird. Not sure if there are any people on board, but it doesn't look harmful. It's going slow, so if anything happens, we can shoot it. Not sure how it's emitting a radio signal, at that size."
 
 *"Repeat that last. We heard it's the size of a bird?"*
 
@@ -65,7 +65,7 @@ Some of the pieces were starting to fall into place in Marian's mind, but to ful
 Day 2, Month 2, 1640, Emperor's Chambers, Mu
 --------------------------------------------
 
-Emperor Valentin II was preparing himself for another day in front of the senate. Still an empire, Mu also had a moderately powerful people's senate to make sure that the country wasn't ruled from up in the clouds. The common people didn't see the same things he did, which he and his family knew from generations of rule made both of their decisions imperfect. For centuries, the imperial family continued to give the senate power, and some of Valentin's detractors made it out that the senate could even take over. It did itch at the back of his mind, but was not something anyone in his position had time to worry about.
+Emperor Valentin II was preparing himself for another day in front of the senate. Still an empire, Mu also had a moderately powerful people's senate to make sure that the country wasn't ruled from up in the clouds. The common people didn't see the same things he did, which he and his family knew from generations of rule made both of their decisions imperfect. For centuries, the imperial family continued to give the senate power, and some of Valentin's detractors made it out that the senate could even take over. It did itch at the back of his mind but was not something anyone in his position had time to worry about.
 
 Having read the reports from both the military and his Foreign Affairs Bureau, Valentin had come to two possible conclusions: either Vauxnia had somehow hidden it's technological or magical prowess from Mu for decades, or another Gra Valkas had happened. Both were scary, but after the militant attitude of the Gra Valkans, it worried him more to find a whole new continent plopped into existence north of him as well as west.
 
