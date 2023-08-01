@@ -31,10 +31,16 @@ Inspired by `Japan Summons/Nihonkoku Shoukan by みのろう`_
   :target: https://creativecommons.org/licenses/by-sa/4.0/
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Book 1:
    :glob:
+   :numbered: 1
 
-   Book/*
+   Book/v1/*
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Appendix:
+   :hidden:
 
    Ideas/index

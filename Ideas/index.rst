@@ -5,16 +5,15 @@ Information About the World
   This is a section for my own ramblings. Read past here at your own risk. Grammar, spelling and sanity are completely optional from here on.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
+   :hidden:
 
    characters
    Countries
    militaries
 
    sources
-
-.. TODOLIST::
 
 One of the things that I liked about `Japan Summons`_ is the fact that, while overpowered and unapologetically broken, they somewhat have to deal with supply constraints, modern trading partners not existing, Japan being very anti-nuke, the different ways of doing diplomacy, as well as having their hands tied behind their backs by the size and philosophy of their military. I want to keep that same idea going, with powerful, out-of-this-world weapons that aren't unlimited and aren't going to blanket the globe.
 
