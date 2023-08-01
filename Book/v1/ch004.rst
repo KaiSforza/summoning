@@ -1,7 +1,7 @@
 Defense Force
 ~~~~~~~~~~~~~
 
-Written June 12th, 2023
+Written July 12th, 2023
 
 .. 2023.07.12
 
