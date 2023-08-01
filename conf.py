@@ -21,7 +21,8 @@ language = 'en'
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.extlinks',
-    'sphinx.ext.todo'
+    'sphinx.ext.todo',
+    'sphinx.ext.imgconverter'
 ]
 
 templates_path = ['_templates']

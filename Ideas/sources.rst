@@ -1,7 +1,7 @@
 Sources for Images
 ==================
 
-.. image:: ../_images/examples/IFV_Example_CV_90_Mk_IV.jpg
+.. image:: ../_images/examples/IFV_Example_CV_90_Mk_IV.png
   :width: 50%
 
 https://en.wikipedia.org/wiki/Combat_Vehicle_90#/media/File:CV_90_Mk_IV_SIAF-2022.jpg
@@ -36,7 +36,7 @@ https://titanfall.fandom.com/wiki/Simulacrum?file=Hands_of_the_Machine_Hi.jpg
 .. Apollo medevac
 .. image:: ../_images/examples/ships/Apollo_Triage_Concept.png
   :width: 49%
-.. image:: ../_images/examples/ships/Apollo_-_interior_layout.jpg
+.. image:: ../_images/examples/ships/Apollo_-_interior_layout.png
   :width: 49%
 
 https://starcitizen.tools/Apollo_Medivac
@@ -46,12 +46,12 @@ https://starcitizen.tools/Apollo_Medivac
 
 https://apexlegends.fandom.com/wiki/Rampage_LMG
 
-.. image:: ../_images/examples/personnel/DustUp_Tactical_armor_set.jpg
+.. image:: ../_images/examples/personnel/DustUp_Tactical_armor_set.png
   :width: 49%
 
 https://starcitizen.tools/File:DustUp_Tactical_armor_set.jpg
 
-.. image:: ../_images/examples/personnel/Defiance_Tactical_armor_set.jpg
+.. image:: ../_images/examples/personnel/Defiance_Tactical_armor_set.png
   :width: 49%
 
 https://starcitizen.tools/File:Defiance_Tactical_armor_set.jpg

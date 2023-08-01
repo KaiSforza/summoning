@@ -21,7 +21,7 @@ The 36mm variant can punch holes in almost everything using the assisted sabot r
 Adding some 'stats' below.
 
 
-.. image:: ../_images/examples/IFV_Example_CV_90_Mk_IV.jpg
+.. image:: ../_images/examples/IFV_Example_CV_90_Mk_IV.png
    :width: 300px
 
 .. include:: ./includes/cv-8.rst
@@ -78,7 +78,7 @@ The base probably has ~50 Apollo-like craft. The single airframe lowers maintena
 
 .. image:: ../_images/examples/ships/Apollo_Triage_Concept.png
   :width: 49%
-.. image:: ../_images/examples/ships/Apollo_-_interior_layout.jpg
+.. image:: ../_images/examples/ships/Apollo_-_interior_layout.png
   :width: 49%
 
 

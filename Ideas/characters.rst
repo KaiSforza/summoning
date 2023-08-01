@@ -19,7 +19,7 @@ Characters
 * Wyn - Owner of general store
 
 * Savlik - Radio operator and head of communications in 3rd Subjugation Fleet
-* Egon - Head of Barbarian Diplomatic Relations for the Foreign Affairs Department
+* Egon Klepper - Head of Barbarian Diplomatic Relations for the Foreign Affairs Department
 * Oskar Glas - Diplomatic Lt. for GVE Foreign Affairs Department (FAD)
 * Eike Baumstein - Head of FAD for GVE
 * Hauke Schiefer - Military Intelligence officer

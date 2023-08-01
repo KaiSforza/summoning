@@ -7,17 +7,8 @@
  Summoning Frontier
 ====================
 
-.. image:: _static/cc-by-sa.svg
+.. image:: _static/cc-by-sa.*
   :target: https://creativecommons.org/licenses/by-sa/4.0/
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   :glob:
-
-   Book/*
-
-   Ideas/index
 
 Source: https://gitlab.com/kaictl/writing/summoning
 
@@ -36,5 +27,14 @@ Inspired by `Japan Summons/Nihonkoku Shoukan by みのろう`_
 
 .. _`Japan Summons/Nihonkoku Shoukan by みのろう`: http://mokotyama.sblo.jp/
 
-.. image:: _static/cc-by-sa.svg
+.. image:: _static/cc-by-sa.*
   :target: https://creativecommons.org/licenses/by-sa/4.0/
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   :glob:
+
+   Book/*
+
+   Ideas/index
