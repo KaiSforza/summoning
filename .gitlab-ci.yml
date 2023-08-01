@@ -13,7 +13,7 @@ setup:
     - env | grep '^CI_ARTIFACTS_URL=' > .env
     - |
       export TOTAL_WORDS=0
-      for FILE in Book/*.rst; do
+      for FILE in Book/*/*.rst; do
         WORDS=$(wc -w $FILE | tr ' ' '\n' | head -n1)
         echo $FILE $WORDS | tee -a pre-metrics.txt
         TOTAL_WORDS=$(echo "$TOTAL_WORDS + $WORDS" | bc)
