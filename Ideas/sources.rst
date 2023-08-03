@@ -4,7 +4,7 @@ Sources for Images
 .. image:: ../_images/examples/IFV_Example_CV_90_Mk_IV.png
   :width: 50%
 
-https://en.wikipedia.org/wiki/Combat_Vehicle_90#/media/File:CV_90_Mk_IV_SIAF-2022.jpg
+https://commons.wikimedia.org/wiki/File:CV_90_Mk_IV_SIAF-2022.jpg
 
 .. image:: ../_images/examples/Simulacra_Example.png
   :width: 50%
@@ -66,7 +66,7 @@ https://starcitizen.tools/File:CSP-68M_Backpack.png
 .. image:: ../_images/examples/personnel/MMC_Concept_2.png
   :width: 49%
 
-https://expanse.fandom.com/wiki/Martian_Marine_Corps#Images
+https://expanse.fandom.com/wiki/Martian_Marine_Corps
 
 .. image:: ../_images/examples/personnel/MMC_helmet_backpack.png
   :width: 49%

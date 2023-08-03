@@ -66,6 +66,53 @@
       }
     },
     {
+      "label": "Build latex",
+      "detail": "Outputs latex files into _build/latex",
+      "type": "process",
+      "windows": {
+        "command": "${workspaceFolder}/.venv/Scripts/sphinx-build.exe"
+      },
+      "command": "${workspaceFolder}/.venv/Scripts/sphinx-build",
+      "args": [
+        "-avTEW",
+        "-b",
+        "latex",
+        "${workspaceFolder}",
+        "${workspaceFolder}/_build/latex"
+      ],
+      "group": {
+        "kind": "none",
+        "isDefault": false
+      },
+      "presentation": {
+        "group": "build",
+        "reveal": "silent"
+      }
+    },
+    {
+      "label": "Build pdf",
+      "detail": "Outputs the pdf into _build/latex",
+      "dependsOn": [
+        "Build latex"
+      ],
+      "type": "process",
+      "windows": {
+        "command": "${workspaceFolder}/_build/latex/make.bat"
+      },
+      "command": "make",
+      "options": {
+        "cwd": "${workspaceFolder}/_build/latex"
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": false
+      },
+      "presentation": {
+        "group": "build",
+        "reveal": "silent"
+      }
+    },
+    {
       "label": "Clean",
       "detail": "Clean up the _build directory",
       "type": "process",
