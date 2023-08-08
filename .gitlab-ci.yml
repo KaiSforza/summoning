@@ -67,9 +67,7 @@ branch:
     - public
     expire_in: 1 day
   rules:
-    - if: $CI_COMMIT_REF_PROTECTED
-    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
-      when: never
+    - if: $CI_COMMIT_REF_PROTECTED && $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
   environment:
     # Env for each MR
     name: $CI_COMMIT_REF_SLUG
