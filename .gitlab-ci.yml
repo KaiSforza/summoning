@@ -23,13 +23,13 @@ setup:
 
   rules:
     - if: $CI_MERGE_REQUEST_ID
+    - if: $CI_COMMIT_REF_PROTECTED
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
   artifacts:
     reports:
       dotenv: .env
       metrics: metrics.txt
     expire_in: 1 hour
-
 
 test:
   stage: test
@@ -52,6 +52,29 @@ test:
     url: ${CI_ARTIFACTS_URL}/-/jobs/$CI_JOB_ID/artifacts/public/index.html
     deployment_tier: development
 
+
+branch:
+  stage: test
+  image: python:alpine
+  needs:
+    - setup
+  script:
+    - python -m pip install -r ./requirements.txt
+    - sphinx-build -avTEW -b html . ./public
+  # We're not saving this but it's here to look at just in case.
+  artifacts:
+    paths:
+    - public
+    expire_in: 1 day
+  rules:
+    - if: $CI_COMMIT_REF_PROTECTED
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+      when: never
+  environment:
+    # Env for each MR
+    name: $CI_COMMIT_BRANCH
+    url: ${CI_ARTIFACTS_URL}/-/jobs/$CI_JOB_ID/artifacts/public/index.html
+    deployment_tier: development
 pages:
   stage: deploy
   image: python:alpine
