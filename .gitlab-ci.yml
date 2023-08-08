@@ -72,9 +72,10 @@ branch:
       when: never
   environment:
     # Env for each MR
-    name: $CI_COMMIT_BRANCH
+    name: $CI_COMMIT_REF_SLUG
     url: ${CI_ARTIFACTS_URL}/-/jobs/$CI_JOB_ID/artifacts/public/index.html
     deployment_tier: development
+
 pages:
   stage: deploy
   image: python:alpine
